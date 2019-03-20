@@ -1,0 +1,8 @@
+/draw5
+Refresh
+Cancelled
+Level up
+Direct
+Front (Front.wav)
+Side (Side.wav)
+Counter

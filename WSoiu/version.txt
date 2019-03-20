@@ -1,0 +1,5 @@
+<version>
+<lastupdateYYMMDD>120126</lastupdateYYMMDD>
+<versionurl>http://sites.google.com/site/vylantze/ws/version.txt</versionurl>
+<updateurl>http://sites.google.com/site/vylantze/ws/updatelist.txt</updateurl>
+</version>

@@ -1,0 +1,164 @@
+<plugin>
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Waiting Room</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Clock</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Stock</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Memory</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+			<phase><label>Stand</label></phase>
+			<phase><label>Draw</label></phase>
+			<phase><label>Clock</label></phase>
+			<phase><label>Main</label></phase>
+			<phase><label>Climax</label></phase>
+			<phase><label>Attack</label></phase>
+			<phase><label>End</label></phase>
+
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Stand All</label>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Trigger</label>
+	<kind>DRAWCARDTOTABLE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Take Damage</label>
+	<kind>TRANSFERCARD</kind>                 
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>                 
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Clock</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Heal</label>
+	<kind>TRANSFERCARD</kind>                 
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Clock</sourcegamezone>
+	<sourceposition>top</sourceposition>                 
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Waiting Room</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Stock</label>
+	<kind>TRANSFERCARD</kind>                 
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>                 
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Stock</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Pay cost</label>
+	<kind>TRANSFERCARD</kind>                 
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Stock</sourcegamezone>
+	<sourceposition>top</sourceposition>                 
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Waiting Room</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Dice Roll</label>
+	<kind>ROLLD6</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Concentrate</label>
+	<kind>TRANSFERCARD</kind>                 
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>                 
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Waiting Room</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Marker</label>
+	<kind>TRANSFERCARD</kind>                 
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>                 
+	<destinationowner>table</destinationowner>
+	<destinationposition>facedown</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+
+<cardfunction>
+	<label>Stand</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+	<includeasbutton>no</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Rest</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+	<includeasbutton>no</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Reverse</label>
+	<kind>MAKERIGHT180DEGREES</kind>
+	<includeasbutton>no</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Flip</label>
+	<kind>TURNOVER</kind>
+	<includeasbutton>no</includeasbutton>
+</cardfunction>
+
+<definition>
+	<kind>ISYOURFACEDOWNVISIBLE</kind>
+	<value>no</value>
+</definition>
+
+</plugin>

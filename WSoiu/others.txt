@@ -1,0 +1,10 @@
+CardImageURLs:
+-/spawned.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/spawned.jpg
+WE05/SKWE05-11_C.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/WE05/SKWE05-11_C.jpg
+WPR/N1WPR-001_PR.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/PR/N1WPR-001_PR.jpg
+WPR/N1WPR-002_PR.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/PR/N1WPR-002_PR.jpg
+WPR/NVWPR-003_PR.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/PR/NVWPR-003_PR.jpg
+WPR/RWWPR-001_PR.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/PR/RWWPR-001_PR.jpg
+SPR/P4SPR-001_PR.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/PR/P4SPR-001_PR.jpg
+SPR/BRSPR-001_PR.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/PR/BRSPR-001_PR.jpg
+SPR/BRSPR-002_PR.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/PR/BRSPR-002_PR.jpg

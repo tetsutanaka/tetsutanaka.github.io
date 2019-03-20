@@ -1,0 +1,349 @@
+v1.106
+----------------------------------------------
+Added the following PRs:
+	NV/WPR-003
+	LB/W06-113
+	RG/W10-116
+	KW/W11-124
+	NA/W12-110
+	NA/W12-111
+	NA/W12-111_ (GOD PR)
+	NA/W12-112
+	ID/W13-113
+	SS/W14-113
+	DC/WE08-74
+	DC/WE08-75
+	DC/WE08-76
+	DC/WE08-77
+	DC/WE08-78
+	DC/WE08-79
+	DC/WE08-80
+	DC/WE08-81
+	DC/WE08-82
+	DC/WE08-83
+	SY/WE09-31
+	SY/WE09-32
+	FS/S03-109
+	IM/S07-120
+	MF/S13-116
+	MF/S13-117
+	FH/SE03-51
+	DG/SE08-51
+Minor:
+	Corrected the name of DC/W09-065 and DC/W09-T10 from "Erica" to "Erika"
+	Changed the sets of the following:
+		N1/WPR-001
+		N1/WPR-002
+		RW/WPR-001
+		P4/SPR-001
+		BR/SPR-001
+		BR/SPR-002
+
+v1.105
+----------------------------------------------
+DDWE12		- Official release of Dog Days EP
+DD TD will be added as soon as I figure out how many of each card there are inside
+Minor:
+	Some names changed, mainly TD.
+	Images changed. You may delete all images with _t from "ws/sets/setimages/WE12/" now. 
+
+v1.104a
+----------------------------------------------
+Minor:
+	MK/S11-121		- Fixed entire card. Image is still terrible. 
+	MK/S11-123		- Added
+	Changed all "Drama" traits to "Theater"
+
+v1.104
+----------------------------------------------
+NJWE11		- Nichijou (Daily Life) EP added
+
+v1.103a
+----------------------------------------------
+For the first time in a long time, let's list minor changes:
+	NS/W04-018/T06	- Trait corrected from "Weapon" to "Dragon"
+	NS/W04-079		- Trait corrected from "Demon" to "God"
+	LB/W06-093/T14	- Ability corrected from itself REVERSE to REVERSE opponent.
+	SS/W14-074		- Second ability corrected
+	DD/WE12-09		- Ability corrected from give other Animal +500 to give itself +500 for each Animal
+	DD/WE12-35		- Name "Hero Summon!" changed to "Hero Advent!"
+
+v1.103
+----------------------------------------------
+Sort of, kind of, maybe New Year's gift
+DDWE12		- Dog Days EP added
+DD TD NOT added
+Note:	Since this is a pre-release Dog Days EP, stuff might happen, so this is a very temporary release and may be subject to change.
+		All in all, when the actual Dog Days EP is released, images will be improved, TD will be released, etc, etc, can't be bothered, have fun.
+
+v1.102
+----------------------------------------------
+MKSE11		- Milky Holmes: Counterattack of Genius4 added
+
+v1.101
+----------------------------------------------
+FTSE10		- Fairy Tail Extra Pack added
+
+v1.100
+----------------------------------------------
+NEARING COMPLETION OF ALL SERIES
+ID/RGW13	- To Aru Majutsu Index/Railgun 2 added
+IMS04		- The IDOLM@STER added
+MFS13		- Macross Frontier added
+IMS14		- The IDOLM@STER 2 added
+BMS15		- Bakemonogatari added
+IMSE04		- The IDOLM@STER Dearly Stars added
+BRSE06		- Black Rock Shooter added
+DGSE08		- Disgaea 4
+MKSE09		- Milky Holmes - Phantom Thieves Empire Strikes Back
+Assorted TDs added
+GCS16		- Guilty Crown TD added
+FZS17		- Fate/zero TD added
+P4SE12		- Persona 4 Animation TD added
+Note:
+	User interface related stuff:
+		Combined 'Trait1' and 'Trait2' into a general 'Traits' for easier searching
+		Added a 'Stand All' button
+		Added Flavour text
+			All normal cards for most series have translated flavour text.
+			Almost all PRs and foils do not, unless they are the same as normal, in which it is reflected
+				Those that do have come about as a result of Google Translate and amateur translators on the team.
+		Double click once now turns card to REST instead of REVERSE (though in opposite direction, meaning climaxes in REST would be upside down), leading to...
+		Climaxes are now all turned to REST by default. Update should delete all previous climax images and they should be redownloaded
+		Modified the names and abilities of all the cards in Lucky Star (they are now easier on the eye). 
+		Same for Shining Force EXA
+	The following missing cards do not have images and thus, errors are to be expected:
+		RGW13-107	PR
+		RGW13-108	PR
+		IDW13-112	PR
+		DGSE08-49	PR
+		DGSE08-50	PR
+		MKSE09-31	PR
+	Last thing: Some of the cards have been renamed a little, so, decklists should be rechecked. 
+
+v1.090
+----------------------------------------------
+RWW15  - Rewrite added
+RW TD added
+
+v1.080
+----------------------------------------------
+ABWE10  - Angel Beats! EP added
+Updated random list
+
+v1.075
+----------------------------------------------
+LSW05  - Lucky Star added
+SE/SFS04 - Shining Force EXA added
+LS TD added
+SE TD added
+
+v1.073
+----------------------------------------------
+BMS15 - Bakemonogatari TD added
+BM TD added
+
+v1.072
+----------------------------------------------
+P4S08 - Persona 4 added
+EVS12 - Rebuild of Evangelion added
+P4SE01 - Persona 4 EP added
+P4 TD added
+EV TD added
+Minor:
+	Renamed all "Paper Fan" traits to "Fan"
+	Renamed all "Class Rep" traits to "President"
+	Renamed all "Main Character" to "Protagonist"
+
+v1.071
+----------------------------------------------
+FTS09 - Fairy Tail added
+FT TD added
+Minor:
+	Modified cards with "Phantom" in W07 to "PHANTOM" to avoid clash with new release
+
+v1.07
+----------------------------------------------
+NSW04 - Mahou Shoujo Lyrical Nanoha A's added
+DCW09 - Da Capo, Da Capo II Plus Communication added
+NAW12 - Mahou Shoujo Lyrical Nanoha A's added
+CLWE01 - CLANNAD Vol 1 added
+DCWE02 - Da Capo, Da Capo II Plus Communication EP added
+CLWE04 - CLANNAD Vol 2 added
+N1WE06 - Nanoha MOVIE First added
+CLWE07 - CLANNAD Vol 3 added
+DCWE08 - Da Capo, Da Capo II Plus Communication EP added
+KGSE07 - Katanagatari added
+
+NS TD added
+NA TD added
+DCDCIIPC TD added
+KG TD added
+
+Minor:
+	Changed trait "Priestess" to "Miko"
+	Changed trait "Paper Fan" to "Fan"
+	Corrected name in DCW01 from "Otohime" to "Otome"
+Removed from random list:
+	DC/W09-056
+	DC/W09-058
+	DC/W09-059
+	DC/W09-063
+	DC/WE08-71
+
+v1.055
+----------------------------------------------
+SBS06 - Sengoku Basara added
+SBSE05 - Sengoku Basara EP added
+SB TD added
+Note: Sengoku Basara as a series is very loosely translated, mostly due to the fact that there is no 'official' fan translation to base on and that none of us have actually watched Sengoku Basara before. Should anyone find any fault with the way the names are translated, you may email me the card number and what you think is a better translation
+Note2: Anything in Sengoku Basara with "Demon King" is the same as Disgaea's "Overlord" and vice versa. This means that cards that support Sengoku Basara's "Demon King" can also be used to support Disgaea's "Overlord" and vice versa.
+
+v1.053
+----------------------------------------------
+DCW01 - Da Capo, Da Capo II added
+DC TD added
+Removed from random list:
+	DC/W01-062
+Minor:
+	Fixed misspelling in MB/S10
+	Added Memory slot (should it be needed)
+	Re-added Phases
+
+v1.052
+----------------------------------------------
+MKS11 - Milky Holmes added (Note: Some cards, MK/S11-121 in particular, are incomplete for certain reasons)
+MK TD added
+Modified location of TDs on update site
+Removed from random list:
+	MK/S11-017
+	MK/S11-055
+	MK/S11-059
+	MK/S11-070
+	MK/S11-108
+	MK/S11-110
+	MK/S11-122
+
+v1.051
+----------------------------------------------
+random list updated: 
+	LS/W05-002
+	DC/WE08-71
+	MK/S11-017
+	MK/S11-055
+	MK/S11-059
+	MK/S11-070
+	MK/S11-108
+	MK/S11-110
+	MK/S11-122
+Minor:
+	Fixed misspellings in DGe
+	DGe TD updated
+	Fixed '?' stuff in W07
+
+v1.05
+----------------------------------------------
+ID/RG W10 - To Aru Majutsu no Index/To Aru Kagaku no Railgun added
+DGS02 - Disgaea added
+RG TD added
+DG TD added
+DGe TD added
+Modified Colour:
+	Y <- Yellow
+	G <- Green
+	R <- Red
+	B <- Blue
+Modified menu options:
+	Trigger <- Trigger Check
+	Stock <- Put Stock
+	Heal option added = Allows one to heal damage from Clock to Waiting Room or when cancelling
+	Removed Phases, as only turns are needed
+Minor:
+	Changed all future signs to use 'SP' instead of 'X' to indicate sign. Modified all Types to reflect as such, though image names remain the same
+	Changed all future foils that do not have a unique ID to use 'S' instead of 'H'
+	Fixed some Triggers and incorrect Types in LB
+	Renamed foils for CANAAN
+	Changed AB/W11-101's name from Angel to Tenshi
+
+v1.045
+----------------------------------------------
+CNSE02 - CANAAN added
+Added to random:
+	SK/WE05-11 Itsuki & Ul
+	MF/S13-110 Ranka
+
+v1.041
+----------------------------------------------
+Minor:
+	Corrected PT/W07-010 EREN's ability
+	Corrected KW/W11-090 Acchan's ability
+	Corrected KW/W11-096 Icarus's ability
+	Corrected AB/W11-111 Yuri's trait
+
+v1.04
+----------------------------------------------
+AB/KW W11 - Angel Beats!/Kud Wafter added
+AB/KW TD added
+Minor:
+	Removed AB/W11-051 Yuri from random list as AB/KW is added
+
+v1.03
+----------------------------------------------
+PTW07 - Phantom added
+PT TD added
+Minor: 
+	Changed Rarity for LBW06-079 from SR to R
+	Changed all future foils to use S instead of H to match SE02. Signs are still determined by X.
+		Note: Current foils will not be modified.
+Images for these cards are of low quality: 
+	PT/W07-103
+	
+v1.022
+----------------------------------------------
+Minor modifications:
+	Added missing ability for FH/SE03-012 Stheno & Euryale
+Added 'random' list which includes random cards from other series added in
+	DC/W01-062 Myu
+	DC/W09-056 Miharu
+	DC/W09-058 Minatsu
+	DC/W09-059 Myu
+	DC/W09-063 Myu
+	AB/W11-051 Yuri
+
+v1.021
+----------------------------------------------
+Minor modifications:
+	Sasasegawa Sasami <- Sasegawa Sasami
+	Added missing ability for FH/SE03-011 Bazett
+	Used literal text of LB/W02-101e Rin
+
+v1.02
+----------------------------------------------
+LBW02 - Little Busters added
+LB TD added
+Modified Type:
+	CH <- Character
+	EV <- Event
+	CX <- Climax
+
+v1.01
+----------------------------------------------
+P3S01 - Persona 3 added
+P3 TD added
+Renamed foils for previous series to allow usage ingame 
+	NOTE: Previous decks utilising TD or foil cards may have lost their data as a result. Other cards with " " in their name may have lost their data as well.
+
+v1.00
+----------------------------------------------
+FSS03 - Fate Stay Night added
+MBS10 - Melty Blood added
+FHSE03 - Fate hollow ataraxia added
+LBW06 - Little Busters Ecstasy! added
+SYW08 - Suzumiya Haruhi added
+SSW14 - Shakugan no Shana added
+SYWE09 - Suzumiya Haruhi EP added
+FS TD added
+MB TD added
+LBEX TD added
+SY TD added
+SS TD added
