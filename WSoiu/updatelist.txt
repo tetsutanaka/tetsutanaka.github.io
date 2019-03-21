@@ -1,26 +1,15 @@
-ws	11-30-11
-plugins/ws/plugininfo.txt	http://sites.google.com/site/vylantze/ws/plugininfo.txt	431592
-plugins/ws/readme.txt	http://sites.google.com/site/vylantze/ws/readme.txt	285216
-plugins/ws/changelog.txt	http://sites.google.com/site/vylantze/ws/changelog.txt	745387
-plugins/ws/defaultchat.txt	http://sites.google.com/site/vylantze/ws/defaultchat.txt	7049
-plugins/ws/W-B.txt	http://sites.google.com/site/vylantze/ws/W-B.txt	18260157
-plugins/ws/W-EP.txt	http://sites.google.com/site/vylantze/ws/W-EP.txt	6236131
-plugins/ws/S-B.txt	http://sites.google.com/site/vylantze/ws/S-B.txt	18014006
-plugins/ws/S-EP.txt	http://sites.google.com/site/vylantze/ws/S-EP.txt	7821308
-plugins/ws/others.txt	http://sites.google.com/site/vylantze/ws/others.txt	78219
-plugins/ws/version.txt	http://sites.google.com/site/vylantze/ws/version.txt	20856
-plugins/ws/uninstall.txt	http://sites.google.com/site/vylantze/ws/uninstall.txt	3164907
-plugins/ws/sets/setimages/cardback.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/cardback.jpg	8768
-plugins/ws/sets/setimages/spawned.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/spawned.jpg	5358
-images/backgrounds/wsplaymat.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/wsplaymat.jpg	-52278
-plugins/ws/sets/nocard.txt	http://sites.google.com/site/vylantze/ws/nocard.txt	11223
-plugins/ws/sets/setoiu.txt	http://sites.google.com/site/vylantze/ws/random.txt	98089
-plugins/ws/sets/setfunky.txt
-CardURLFiles:
-W-B.txt
-W-EP.txt
-S-B.txt
-S-EP.txt
-others.txt
+WSoiu	3-21-2019
+plugins/WSoiu/plugininfo.txt	https://tetsutanaka.github.io/WSoiu/plugininfo.txt
+plugins/WSoiu/readme.txt	https://tetsutanaka.github.io/WSoiu/readme.txt
+plugins/WSoiu/changelog.txt	https://tetsutanaka.github.io/WSoiu/changelog.txt
+plugins/WSoiu/defaultchat.txt	https://tetsutanaka.github.io/WSoiu/defaultchat.txt
+plugins/WSoiu/others.txt	https://tetsutanaka.github.io/WSoiu/others.txt
+plugins/WSoiu/version.txt	https://tetsutanaka.github.io/WSoiu/version.txt
+plugins/WSoiu/uninstall.txt	https://tetsutanaka.github.io/WSoiu/uninstall.txt
+plugins/WSoiu/sets/setimages/cardback.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/cardback.jpg
+plugins/WSoiu/sets/setimages/spawned.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/spawned.jpg
+images/backgrounds/wsplaymat.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/wsplaymat.jpg
+plugins/WSoiu/sets/setoiu.txt	https://tetsutanaka.github.io/WSoiu/sets/setoiu.txt
+plugins/WSoiu/sets/setfunky.txt  https://tetsutanaka.github.io/WSoiu/sets/setfunky.txt
 CardGeneralURLs:
 https://tetsutanaka.github.io/WSoiu/sets/setimages/
