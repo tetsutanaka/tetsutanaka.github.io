@@ -10,100 +10,17 @@ plugins/ws/S-EP.txt	http://sites.google.com/site/vylantze/ws/S-EP.txt	7821308
 plugins/ws/others.txt	http://sites.google.com/site/vylantze/ws/others.txt	78219
 plugins/ws/version.txt	http://sites.google.com/site/vylantze/ws/version.txt	20856
 plugins/ws/uninstall.txt	http://sites.google.com/site/vylantze/ws/uninstall.txt	3164907
-plugins/ws/decks/TDABKW-AngelBeats-KudWafter.txt	http://sites.google.com/site/vylantze/td/TDABKW-AngelBeats-KudWafter.txt	48443
-plugins/ws/decks/TDBM-Bakemonogatari.txt	http://sites.google.com/site/vylantze/td/TDBM-Bakemonogatari.txt	56065
-plugins/ws/decks/TDDC-DCDCII.txt	http://sites.google.com/site/vylantze/td/TDDC-DCDCII.txt	36030
-plugins/ws/decks/TDDC-DCDCIIPC.txt	http://sites.google.com/site/vylantze/td/TDDC-DCDCIIPC.txt	34169
-plugins/ws/decks/TDDG-Disgaea.txt	http://sites.google.com/site/vylantze/td/TDDG-Disgaea.txt	46680
-plugins/ws/decks/TDEV-RebuildOfEvangelion.txt	http://sites.google.com/site/vylantze/td/TDEV-RebuildOfEvangelion.txt	36699
-plugins/ws/decks/TDFS-FateStayNight.txt	http://sites.google.com/site/vylantze/td/TDFS-FateStayNight.txt	41588
-plugins/ws/decks/TDFT-FairyTail.txt	http://sites.google.com/site/vylantze/td/TDFT-FairyTail.txt	34382
-plugins/ws/decks/TDFZ-FateZero.txt	http://sites.google.com/site/vylantze/td/TDFZ-FateZero.txt	42874
-plugins/ws/decks/TDGC-GuiltyCrown.txt	http://sites.google.com/site/vylantze/td/TDGC-GuiltyCrown.txt	39884
-plugins/ws/decks/TDID-ToAruMajutsuNoIndex2.txt	http://sites.google.com/site/vylantze/td/TDID-ToAruMajutsuNoIndex2.txt	45692
-plugins/ws/decks/TDIM-TheIDOLM@STER.txt	http://sites.google.com/site/vylantze/td/TDIM-TheIDOLM@STER.txt	37886
-plugins/ws/decks/TDIM-TheIDOLM@STER2.txt	http://sites.google.com/site/vylantze/td/TDIM-TheIDOLM@STER2.txt	38186
-plugins/ws/decks/TDKG-Katanagatari.txt	http://sites.google.com/site/vylantze/td/TDKG-Katanagatari.txt	39566
-plugins/ws/decks/TDLB-LittleBustersEcstasy.txt	http://sites.google.com/site/vylantze/td/TDLB-LittleBustersEcstasy.txt	39673
-plugins/ws/decks/TDLB-LittleBusters.txt	http://sites.google.com/site/vylantze/td/TDLB-LittleBusters.txt	37901
-plugins/ws/decks/TDLS-LuckyStar.txt	http://sites.google.com/site/vylantze/td/TDLS-LuckyStar.txt	31372
-plugins/ws/decks/TDMF-MacrossFrontier.txt	http://sites.google.com/site/vylantze/td/TDMF-MacrossFrontier.txt	38212
-plugins/ws/decks/TDMB-MeltyBlood.txt	http://sites.google.com/site/vylantze/td/TDMB-MeltyBlood.txt	32757
-plugins/ws/decks/TDMK-MilkyHolmes.txt	http://sites.google.com/site/vylantze/td/TDMK-MilkyHolmes.txt	40767
-plugins/ws/decks/TDNA-NanohaAs.txt	http://sites.google.com/site/vylantze/td/TDNA-NanohaAs.txt	43660
-plugins/ws/decks/TDNS-NanohaStrikerS.txt	http://sites.google.com/site/vylantze/td/TDNS-NanohaStrikerS.txt	37942
-plugins/ws/decks/TDP3-Persona3.txt	http://sites.google.com/site/vylantze/td/TDP3-Persona3.txt	28830
-plugins/ws/decks/TDP4-Persona4.txt	http://sites.google.com/site/vylantze/td/TDP4-Persona4.txt	37821
-plugins/ws/decks/TDP4-Persona4Animation.dek	http://sites.google.com/site/vylantze/td/TDP4-Persona4Animation.dek	355152
-plugins/ws/decks/TDPT-Phantom.txt	http://sites.google.com/site/vylantze/td/TDPT-Phantom.txt	27071
-plugins/ws/decks/TDRG-ToAruKagakuNoRailgun.txt	http://sites.google.com/site/vylantze/td/TDRG-ToAruKagakuNoRailgun.txt	45379
-plugins/ws/decks/TDRW-Rewrite.txt	http://sites.google.com/site/vylantze/td/TDRW-Rewrite.txt	42509
-plugins/ws/decks/TDSB-SengokuBasara.txt	http://sites.google.com/site/vylantze/td/TDSB-SengokuBasara.txt	52853
-plugins/ws/decks/TDSE-ShiningForceExa.txt	http://sites.google.com/site/vylantze/td/TDSE-ShiningForceExa.txt	43291
-plugins/ws/decks/TDSS-ShakuganNoShana.txt	http://sites.google.com/site/vylantze/td/TDSS-ShakuganNoShana.txt	50104
-plugins/ws/decks/TDSY-SuzumiyaHaruhiNoYuutsu.txt	http://sites.google.com/site/vylantze/td/TDSY-SuzumiyaHaruhiNoYuutsu.txt	42185
 plugins/ws/sets/setimages/cardback.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/cardback.jpg	8768
 plugins/ws/sets/setimages/spawned.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/spawned.jpg	5358
 images/backgrounds/wsplaymat.jpg	http://i303.photobucket.com/albums/nn137/Digi9346/Weiss%20Schwarz/wsplaymat.jpg	-52278
 plugins/ws/sets/nocard.txt	http://sites.google.com/site/vylantze/ws/nocard.txt	11223
-plugins/ws/sets/S01.txt	http://sites.google.com/site/vylantze/ws/S01.txt	2559331
-plugins/ws/sets/S02.txt	http://sites.google.com/site/vylantze/ws/S02.txt	3935617
-plugins/ws/sets/S03.txt	http://sites.google.com/site/vylantze/ws/S03.txt	3164108
-plugins/ws/sets/S04.txt	http://sites.google.com/site/vylantze/ws/S04.txt	2980544
-plugins/ws/sets/S06.txt	http://sites.google.com/site/vylantze/ws/S06.txt	3219301
-plugins/ws/sets/S07.txt	http://sites.google.com/site/vylantze/ws/S07.txt	3899755
-plugins/ws/sets/S08.txt	http://sites.google.com/site/vylantze/ws/S08.txt	3542029
-plugins/ws/sets/S09.txt	http://sites.google.com/site/vylantze/ws/S09.txt	3509581
-plugins/ws/sets/S10.txt	http://sites.google.com/site/vylantze/ws/S10.txt	3391091
-plugins/ws/sets/S11.txt	http://sites.google.com/site/vylantze/ws/S11.txt	3478803
-plugins/ws/sets/S12.txt	http://sites.google.com/site/vylantze/ws/S12.txt	3506291
-plugins/ws/sets/S13.txt	http://sites.google.com/site/vylantze/ws/S13.txt	3281420
-plugins/ws/sets/S14.txt	http://sites.google.com/site/vylantze/ws/S14.txt	3750300
-plugins/ws/sets/S15.txt	http://sites.google.com/site/vylantze/ws/S15.txt	3236767
-plugins/ws/sets/S16.txt	http://sites.google.com/site/vylantze/ws/S16.txt	516724
-plugins/ws/sets/S17.txt	http://sites.google.com/site/vylantze/ws/S17.txt	455936
-plugins/ws/sets/SE01.txt	http://sites.google.com/site/vylantze/ws/SE01.txt	1087365
-plugins/ws/sets/SE02.txt	http://sites.google.com/site/vylantze/ws/SE02.txt	1485303
-plugins/ws/sets/SE03.txt	http://sites.google.com/site/vylantze/ws/SE03.txt	2658192
-plugins/ws/sets/SE04.txt	http://sites.google.com/site/vylantze/ws/SE04.txt	2055037
-plugins/ws/sets/SE05.txt	http://sites.google.com/site/vylantze/ws/SE05.txt	1917380
-plugins/ws/sets/SE06.txt	http://sites.google.com/site/vylantze/ws/SE06.txt	1594388
-plugins/ws/sets/SE07.txt	http://sites.google.com/site/vylantze/ws/SE07.txt	2551038
-plugins/ws/sets/SE08.txt	http://sites.google.com/site/vylantze/ws/SE08.txt	2395997
-plugins/ws/sets/SE09.txt	http://sites.google.com/site/vylantze/ws/SE09.txt	1516722
-plugins/ws/sets/SE10.txt	http://sites.google.com/site/vylantze/ws/SE10.txt	2487905
-plugins/ws/sets/SE11.txt	http://sites.google.com/site/vylantze/ws/SE11.txt	1714216
-plugins/ws/sets/SE12.txt	http://sites.google.com/site/vylantze/ws/SE12.txt	454241
-plugins/ws/sets/W01.txt	http://sites.google.com/site/vylantze/ws/W01.txt	3960315
-plugins/ws/sets/W02.txt	http://sites.google.com/site/vylantze/ws/W02.txt	3478342
-plugins/ws/sets/W04.txt	http://sites.google.com/site/vylantze/ws/W04.txt	3144332
-plugins/ws/sets/W05.txt	http://sites.google.com/site/vylantze/ws/W05.txt	3262962
-plugins/ws/sets/W06.txt	http://sites.google.com/site/vylantze/ws/W06.txt	3230497
-plugins/ws/sets/W07.txt	http://sites.google.com/site/vylantze/ws/W07.txt	2752114
-plugins/ws/sets/W08.txt	http://sites.google.com/site/vylantze/ws/W08.txt	3826498
-plugins/ws/sets/W09.txt	http://sites.google.com/site/vylantze/ws/W09.txt	3795487
-plugins/ws/sets/W10.txt	http://sites.google.com/site/vylantze/ws/W10.txt	3578486
-plugins/ws/sets/W11.txt	http://sites.google.com/site/vylantze/ws/W11.txt	3687583
-plugins/ws/sets/W12.txt	http://sites.google.com/site/vylantze/ws/W12.txt	2948160
-plugins/ws/sets/W13.txt	http://sites.google.com/site/vylantze/ws/W13.txt	3275414
-plugins/ws/sets/W14.txt	http://sites.google.com/site/vylantze/ws/W14.txt	3600890
-plugins/ws/sets/W15.txt	http://sites.google.com/site/vylantze/ws/W15.txt	2898440
-plugins/ws/sets/WE01.txt	http://sites.google.com/site/vylantze/ws/WE01.txt	1248807
-plugins/ws/sets/WE02.txt	http://sites.google.com/site/vylantze/ws/WE02.txt	1168446
-plugins/ws/sets/WE04.txt	http://sites.google.com/site/vylantze/ws/WE04.txt	771978
-plugins/ws/sets/WE06.txt	http://sites.google.com/site/vylantze/ws/WE06.txt	1390050
-plugins/ws/sets/WE07.txt	http://sites.google.com/site/vylantze/ws/WE07.txt	2368648
-plugins/ws/sets/WE08.txt	http://sites.google.com/site/vylantze/ws/WE08.txt	2239441
-plugins/ws/sets/WE09.txt	http://sites.google.com/site/vylantze/ws/WE09.txt	911217
-plugins/ws/sets/WE10.txt	http://sites.google.com/site/vylantze/ws/WE10.txt	1733627
-plugins/ws/sets/WE11.txt	http://sites.google.com/site/vylantze/ws/WE11.txt	1691256
-plugins/ws/sets/WE12.txt	http://sites.google.com/site/vylantze/ws/WE12.txt	1831213
-plugins/ws/sets/random.txt	http://sites.google.com/site/vylantze/ws/random.txt	98089
-plugins/ws/sounds/Front.wav	http://sites.google.com/site/vylantze/ws/Front.wav	-87344
-plugins/ws/sounds/Side.wav	http://sites.google.com/site/vylantze/ws/Side.wav	-126138
+plugins/ws/sets/setoiu.txt	http://sites.google.com/site/vylantze/ws/random.txt	98089
+plugins/ws/sets/setfunky.txt
 CardURLFiles:
 W-B.txt
 W-EP.txt
 S-B.txt
 S-EP.txt
 others.txt
+CardGeneralURLs:
+https://tetsutanaka.github.io/WSoiu/sets/setimages/
