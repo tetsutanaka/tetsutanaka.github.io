@@ -1,0 +1,171 @@
+Name	Set	ImageFile	Type	Colour	Rarity	Serial	Level	Cost	Power	Soul	Trigger	Traits	Flavour	Ability1	Ability2	Ability3
+																
+																
+7th Kagero-class Destroyer, Hatsukaze	S25	KCS25-E006	CH	Y	R	KC/S25-E006	0	0	2000	1	0	Fleet Girl, Destroyer		[CONT]All of your other [Fleet Girl] characters get +500 power.	[AUTO]During the attack phase, when your character or your opponent's character is returned to hand from the waiting room, all of that player's characters get -3 soul until end of turn.	
+ 9th Fubuki-class Destroyer, Isonami	S25	KCS25-E106	CH	R	C	KC/S25-E106	0	0	2500	1	0	Fleet Girl, Destroyer		[CONT]All of your other ?Fleet Girl? characters get +500 power.	[AUTO]When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a [Fleet Girl] character, [REST]this card. (The revealed card is returned to its original place)	
+Akatsuki, A Moment in Winter	S31	KCS31-040	CH	G	U	KC/S31-040	0	0	2000	1	0	Fleet Girl, Destroyer		[AUTO][Place 1 card into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look up to the top 4 cards of your Deck, choose up to 1 [Fleet Girl] Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room.		
+Uzuki, 4th Mutsuki-class Destroyer	S31	KCS31-064	CH	R	U	KC/S31-064	0	0	500	1	0	Fleet Girl, Destroyer		[CONT]When the [START] Cost of a Character from your Hand or Stage is being paid, you may place 1 marker under this card into Waiting Room instead of 1 Stock.	[AUTO] When this card is placed on Stage from Hand, choose 1 [Uzuki, 4th Mutsuki-class Destroyer] from your Waiting Room, you may place it under this card faced down as a marker.	[AUTO]This ability can only be activated once each turn. When you use [START], choose 1 of your Character, during that turn, it gets +1000 Power.
+Shiratsuyu Kai, Pride of Nameship	S31	KCS31-079	CH	B	R	KC/S31-079	0	0	2500	1	0	Fleet Girl, Destroyer		[AUTO] At the beginning of your opponent's Attack Phase, if this card is in the Front Row, place the top card of your Deck into Waiting Room. If that card is Level 1 or higher, place this card into Waiting Room. If that card is Level 0 or lower, you may move this card into another empty slot in the Front Row. ÅiClimax is treated as Level 0Åj	[S ]CONCENTRATION Åm(1) REST 2 of your CharactersÅn Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw up to 1 card.	
+Kawakaze, 9th Shiratsuyu-class Destroyer	S42	KCS42-076	CH	B	R	KC/S42-076	0	0	2000	1	0	Fleet Girl, Destroyer		[AUTO]ÅmPlace this card into ClockÅn When this card becomes REVERSE in battle, you may pay the Cost. If you did, reveal the top card of your Deck. If that card is a [Destroyer] Character, add it to Hand. (If not, return revealed card to its original position)		d 
+Urakaze in the Middle of the Festival	S42	KCS42-003	CH	Y	R	KC/S42-003	1	0	4000	1	0	Fleet Girl, Destroyer		[CONT]For each of your other [Destroyer] Characters, this card gets +500 Power.	[AUTO] When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.	
+Teruzuki, 2nd Akizuki-class Destroyer	S42	KCS42-014	CH	Y	U	KC/S42-014	1	0	4500	1	0	Fleet Girl, Destroyer		[AUTO] When this card attacks, if [Main Gun, Prepare for Anti-Air Combat!] is in the Climax slot, reveal the top card of your Deck. If that card is a [Fleet Girl] Character, add it to Hand. (If not, return revealed card to its original position)	[AUTO]ENCORE [Place 1 Character from Hand into Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)	
+Nowaki, 15th Kagero-class Destroyer	S42	KCS42-015	CH	Y	U	KC/S42-015	1	1	6000	1	0	Fleet Girl, Destroyer		[CONT] For each of your other [Fleet Girl] Characters, this card gets +500 Power.		
+Murasame Kai, Between Spurts of Rain	S42	KCS42-079	CH	B	R	KC/S42-079	1	1	2000	1	1	Fleet Girl, Destroyer		[AUTO] When you use this card's ASSIST, choose 1 of your Character in battle, during this turn, it gets +X Power, X is equals to the number of your [Destroyer] Characters x500.	[START] ASSIST 500 Level 1 [(1) Place this card from Hand into Waiting Room] (Choose 1 of your Characters being Front Attacked, during that turn, it gets +500 Power)	
+Harusame Kai, 5th Shiratsuyu-class Destroyer	S42	KCS42-093	CH	B	C	KC/S42-093	1	1	6000	1	0	Fleet Girl, Destroyer		[CONT] For each Marker under this card, this card gets +1000 Power.	[AUTO]This ability can only be activated up to 1 time each turn. When you played [Drum Can(Transport Use)], you may place the top card of your Deck under this card as a Marker.	[AUTO] When this card's battle opponent becomes REVERSE, you may place the top card of your Deck under this card as a Marker.
+Isokaze, Savory Season	S42	KCS42-016	CH	Y	U	KC/S42-016	2	1	6000	1	1	Fleet Girl, Destroyer		[CONT] SUPPORT All your [Destroyer] Characters in front of this card get +1500 Power.	[AUTO][(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the Cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.	
+Hatsuzuki, 4th Akizuki-class Destroyer	S42	KCS42-024	CH	Y	C	KC/S42-024	2	1	8000	1	1	Fleet Girl, Destroyer		[AUTO] When this card attacks, if [Onee-san, Leave This to Me] is in the Climax slot, choose 1 of your other Characters, return it to Hand, during this turn, this card gets +3500 Power, at the beginning of your Encore Step, place this card into Stock.		
+Yuudachi Kai-Ni, A Moment in Mid-Summer	S42	KCS42-096	CH	B	C	KC/S42-096	2	2	6500	2	1	Fleet Girl, Destroyer		[CONT]For each of your other [Destroyer] Characters, this card gets +1000 Power.	[AUTO]ENCORE [Place 1 Blue card from Hand into Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)	
+Fubuki Kai-Ni, 1st Fubuki-class Destroyer	S42	KCS42-060	CH	R	RR	KC/S42-060	3	2	10000	2	1	Fleet Girl, Destroyer		[AUTO] When this card is placed on Stage from Hand, draw up to 1 Card, during this turn, this card gets +2000 Power.	[AUTO][(3) Place 2 cards from Hand into Waiting Room] When this card attacks, you may pay the Cost. If you did, deal X Damage to your opponent. X is equals to the number of your other [Destroyer] Characters. (Damage can be cancelled)	
+																
+Drum Can(Transport Use)	S31	KCS31-E095	EV	B	U	KC/S31-E095	1	0			0			Look up to the top 4 cards of your Deck, choose up to 1 [Fleet Girl] Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room.		
+																
+Pu-pukupuu!	S31	KCS31-E076	CX	R	CC	KC/S31-E076					2			[AUTO] When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul.		
+Main Gun, Prepare for Anti-Air Combat!	S42	KCS42-028	CX	Y	CC	KC/S42-028					1F			[CONT] All your Characters get +1000 Power, +1 Soul.	(Flame): When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)	
+Onee-san, Leave This to Me	S42	KCS42-029	CX	Y	CC	KC/S42-029					2			[AUTO] When this card is placed into Climax slot from Hand, choose up to 1 Yellow card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul.		
+																
+																
+Naganami, 4th Yuugumo-class Destroyer	S25	KCS25-012				KC/S25-012										
+Inazuma, Blunderer	S25	KCS25-061				KC/S25-061										
+Harusame, 5th Shiratsuyu-class Destroyer	S31	KCS31-089				KC/S31-089										
+Kazagumo, 3rd Yuugumo-class Destroyer	S42	KCS42-009				KC/S42-009										
+Okinami, 14th Yuugumo-class Destroyer	S42	KCS42-012				KC/S42-012										
+Mutsuki Kai-Ni, 1st Mutsuki-class Destroyer	S42	KCS42-068				KC/S42-068										
+Kisaragi Kai-Ni, 2nd Mutsuki-class Destroyer	S42	KCS42-069				KC/S42-069										
+Yamagumo, 6th Asashio-class Destroyer	S42	KCS42-080				KC/S42-080										
+																
+Shimakaze, Shimakaze-class Destroyer	S25	KCS25-003				KC/S25-003										
+Asagumo Kai, 5th Asashio-class Destroyer	S42	KCS42-091				KC/S42-091										
+Yamagumo Kai, 6th Asashio-class Destroyer	S42	KCS42-092				KC/S42-092										
+																
+Junyou, 2nd Hiyou-class Light Aircraft Carrier	S25	KCS25-028				KC/S25-028										
+Jintsuu Kai-Ni, 2nd Sendai-class Light Cruiser	S31	KCS31-038				KC/S31-038										
+Akatsuki Kai-Ni, 1st Akatsuki-class Destroyer	S42	KCS42-041				KC/S42-041										
+																
+Jintsuu, Going!	S31	KCS31-059				KC/S31-059										
+																
+Maikaze, 18th Kagero-class Destroyer	S25	KCS25-007				KC/S25-007										
+Tokitsukaze, 10th Kagero-class Destroyer	S31	KCS31-003				KC/S31-003										
+Arashi, 16th Kagero-class Destroyer	S42	KCS42-010				KC/S42-010										
+Hagikaze, 17th Kagero-class Destroyer	S42	KCS42-011				KC/S42-011										
+																
+Ayanami Kai Ni, 1st Ayanami-class Destroyer	S31	KCS31-035				KC/S31-035										
+Murakumo Kai-Ni, 5th Fubuki-class Destroyer	S42	KCS42-070				KC/S42-070										
+																
+																
+Illumination Rounds	S31	KCS31-054				KC/S31-054										
+																
+It's Akatsuki's Turn, Watch Closely!	S25	KCS25-079				KC/S25-079										
+Ayanami Will Protect You!	S31	KCS31-058				KC/S31-058										
+																
+																
+																
+Kazuma	W49	KSW49-003				KS/W49-003										
+"""Specialty: Delusion"" Darkness"	W49	KSW49-007				KS/W49-007										
+"""Problematic Act"" Megumin"	W49	KSW49-040 				KS/W49-040 										
+"""Troublemaker"" Aqua"	W49	KSW49-071				KS/W49-071										
+"""Meaning for Killing Snow Sprites?"" Aqua"	W49	KSW49-075				KS/W49-075										
+"""Here's Where the Adventure Starts...?"" Aqua"	W49	KSW49-087				KS/W49-087										
+																
+"""Shaken"" Megumin"	W49	KSW49-047				KS/W49-047										
+"Kind Smile"" Eris"	W49	KSW49-076				KS/W49-076										
+"""Sacred Turn Undead"" Aqua"	W49	KSW49-078				KS/W49-078										
+																
+"""Simultaneous Fire!!"" Wiz"	W49	KSW49-044				KS/W49-044										
+"""Calling for Sensei"" Megumin"	W49	KSW49-051				KS/W49-051										
+"""Pride of the Goddess"" Aqua"	W49	KSW49-T17				KS/W49-T17										
+																
+Megumin	W49	KSW49-035				KS/W49-035										
+"""May You Be Blessed with Kind Encounters"" Eris"	W49	KSW49-072				KS/W49-072										
+																
+Real Explosion Magic	W49	KSW49-067				KS/W49-067										
+Revive	W49	KSW49-099				KS/W49-099										
+																
+ÅgBoard GameÅh Megumin	W49	KSW49-037				KS/W49-037										
+ÅgGuide to Obtaining SkillsÅh Megumin	W49	KSW49-038 				KS/W49-038 										
+ÅgSacred Create WaterÅh Aqua	W49	KSW49-077 				KS/W49-077 										
+ÅgStriking a Pose with Arms OpenÅh Darkness	W49	KSW49-013 				KS/W49-013 										
+Darkness	W49	KSW49-001 				KS/W49-001										
+																
+"""Explosion Magic Powered Up"" Megumin"	W55	KSW55-053 				KS/W55-053 										
+"""Running Off"" Aqua"	W55	KSW55-079 				KS/W55-079 										
+Eris in Swimsuit	W55	KSW55-081 				KS/W55-081 										
+"""Salvation of the Soul"" Aqua"	W55	KSW55-082 				KS/W55-082 										
+"""Power of Magic Is Part of Luck"" Aqua"	W55	KSW55-084 				KS/W55-084 										
+In the Name of the Goddess	W55	KSW55-098 				KS/W55-098 										
+The Happiest Divine Book Reinforce	TEST	N2W32-088				N2/W32-088	2	1	8000	1						
+Swimsuit Fate	TEST	N1W32-102	C	Y	C	N1/32-102C	0	0	2000	1						
+Until Another Day Nanoha	TEST	N1W32-P01		R	PR	N1/W32-P01								When your other ????????????? attacks, if this card is in the Front Row, choose 1 of your opponent's Character with Level 0 or below in the Front Row, you may place it into Waiting Room.		
+Until Another Day Fate	TEST	N1W32-P02		Y	PR	N1/W32-P02								When this card is placed on Stage from Hand, during that turn, this Character gets +1500 Power.		
+Familiar Arf	TEST	NSW04-T01				NS/W04-T01										
+Declaration of Victory	TEST	N2W25-005		Y	R	N2/W25-005										
+New Power Fate	TEST	N2W25-019		Y	C	N2/W25-019										
+Sonic Drive Fate	TEST	N2W25-006		Y	R	N2/W25-006										
+Grateful Feeling Alf	TEST	N2W25-013		Y	U	N2/W25-013										
+Plasma Zanber Breaker Fate	TEST	N2W32-106		Y	RR	N2/32-106										
+Lightning Returns Fate	TEST	N2W32-028		Y	RR	N2/W32-028										
+Farewell To The Ideal	TEST	NAW12-024		Y	CC	N2/W12024										
+Lightning Fate	TEST	NAW12-002		Y	RR	N2/W12-002										
+Fate With Bardiche Assault	TEST	NAW12-007		Y	R	NA/212-007										
+Raikou Issen	TEST	NAW12-023		Y	SR	NA/W12-023										
+Kind Mother Precia	TEST	NAW12-018		Y	C	NA/W12-018										
+																
+																
+																
+Nanoha, Sudden Attack	NANO	N2W25-039				N2/W25-039										
+																
+Nanoha, Reunited After A Long Time	NANO	N2W32-070				N2/W32-070										
+																
+"""Big Brother"" Chrono"	NANO	NAW12-040				NA/W12-040										
+																
+Nanoha, Accel Mode	NANO	N2W25-036				N2/W25-036										
+Nanoha, New Power	NANO	N2W32-055				N2/W32-055										
+Nanoha, As a Senior	NANO	N2W32-111				N2/W32-111										
+																
+Nanoha, Strongest Rival	NANO	N1W32-103				N1/W32-103										
+Lindy, Unrivaled Sweet Tooth		NAW12-043				NA/W12-043										
+																
+Signum, Something to Protect	NANO	N2W32-035				N2/W32-035										
+"""Starlight Breaker"" Nanoha"	NANO	N2W32-110				N2/W32-110										
+																
+Starlight Breaker	NANO	N1W32-027				N1/W32-027										
+Offense And Defense of the Fierce Battle	NANO	N1W32-105				N1/W32-105										
+																
+Fate, For Her Friends	NANO	N2W32-030				N2/W32-030										
+Reinforce, Nap Time	NANO	N2W32-085				N2/W32-085										
+																
+																
+Reinforce, Overspilling Passion	NANO	N2W32-081				N2/W32-081										
+Hayate, Happy Days	NANO	N2W32-114				N2/W32-114										
+																
+Hayate, Unison in!	NANO	N2W32-077				N2/W32-077										
+Reinforce, Moment of Farewell	NANO	N2W32-082				N2/W32-082										
+																
+Hayate & Reinforce as One	NANO	N2W32-078				N2/W32-078										
+"""Ragnarok Breaker"" Hayate"	NANO	N2W32-113				N2/W32-113										
+Hayate, Master	NANO	NAW12-077				NA/W12-077										
+																
+Petrifying Lance, Mistilteinn	NANO	N2W32-099				N2/W32-099										
+Time for Just Us Two	NANO	N2W32-117R				N2/W32-117R										
+																
+																
+																
+Saber, Knight's Personality	Fate	FSS34-001				FS/S34-001										
+"""Heroic Spirit"" Saber"	Fate	FSS34-005				FS/S34-005										
+Saber, Dignified Air	Fate	FSS34-019				FS/S34-019										
+Holy Grail War Entry, Saber	Fate	FSS34-TE16				FS/S34-TE16										
+"""Pact Complete"" Saber"	Fate	FSS36-005				FS/S36-005										
+																
+Saber, Prepared to Fight Together	Fate	FSS34-006				FS/S34-006										
+Saber, Heading to Rescue	Fate	FSS34-014				FS/S34-014										
+Shirou, Friendly to Others	Fate	FSS34-017				FS/S34-017										
+																
+Saber, Fight with Souichirou	Fate	FSS34-008				FS/S34-008										
+"""Neat Appearance"" Saber"	Fate	FS036-023				FS/S36-023										
+																
+Saber, Knight's Oath	Fate	FSS34-003				FS/S34-003										
+King of Ideals, Saber	Fate	FZS17-E002				FZ/S17-E002										
+																
+Demolition	Fate	FZS17-E026				FZ/S17-E026										
+																
+Release of Armament	Fate	FSS34-032				FS/S34-032										
+Anger Towards Evil	Fate	FSS34-034				FS/S34-034										
