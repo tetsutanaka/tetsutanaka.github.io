@@ -1,15 +1,15 @@
 WSoiu	3-21-2019
-plugins/WSoiu/plugininfo.txt	https://tetsutanaka.github.io/WSoiu/plugininfo.txt
-plugins/WSoiu/readme.txt	https://tetsutanaka.github.io/WSoiu/readme.txt
-plugins/WSoiu/changelog.txt	https://tetsutanaka.github.io/WSoiu/changelog.txt
-plugins/WSoiu/defaultchat.txt	https://tetsutanaka.github.io/WSoiu/defaultchat.txt
-plugins/WSoiu/others.txt	https://tetsutanaka.github.io/WSoiu/others.txt
-plugins/WSoiu/version.txt	https://tetsutanaka.github.io/WSoiu/version.txt
-plugins/WSoiu/uninstall.txt	https://tetsutanaka.github.io/WSoiu/uninstall.txt
-plugins/WSoiu/sets/setimages/cardback.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/cardback.jpg
-plugins/WSoiu/sets/setimages/spawned.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/spawned.jpg
-images/backgrounds/wsplaymat.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/wsplaymat.jpg
-plugins/WSoiu/sets/setoiu.txt	https://tetsutanaka.github.io/WSoiu/sets/setoiu.txt
-plugins/WSoiu/sets/setfunky.txt  https://tetsutanaka.github.io/WSoiu/sets/setfunky.txt
+plugins/WSoiu/plugininfo.txt	https://tetsutanaka.github.io/WSoiu/plugininfo.txt	431592
+plugins/WSoiu/readme.txt	https://tetsutanaka.github.io/WSoiu/readme.txt	285216
+plugins/WSoiu/changelog.txt	https://tetsutanaka.github.io/WSoiu/changelog.txt	745387
+plugins/WSoiu/defaultchat.txt	https://tetsutanaka.github.io/WSoiu/defaultchat.txt	7049
+plugins/WSoiu/others.txt	https://tetsutanaka.github.io/WSoiu/others.txt	78219
+plugins/WSoiu/version.txt	https://tetsutanaka.github.io/WSoiu/version.txt	20856
+plugins/WSoiu/uninstall.txt	https://tetsutanaka.github.io/WSoiu/uninstall.txt	3164907
+plugins/WSoiu/sets/setimages/cardback.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/cardback.jpg	-334105
+plugins/WSoiu/sets/setimages/spawned.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/spawned.jpg	5358
+images/backgrounds/wsplaymat.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/wsplaymat.jpg	-52278
+plugins/WSoiu/sets/setoiu.txt	https://tetsutanaka.github.io/WSoiu/sets/setoiu.txt	529859
+plugins/WSoiu/sets/setfunky.txt	https://tetsutanaka.github.io/WSoiu/sets/setfunky.txt	1053018
 CardGeneralURLs:
 https://tetsutanaka.github.io/WSoiu/sets/setimages/
