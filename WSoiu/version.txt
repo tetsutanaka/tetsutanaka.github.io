@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>120126</lastupdateYYMMDD>
-<versionurl>http://sites.google.com/site/vylantze/ws/version.txt</versionurl>
-<updateurl>http://sites.google.com/site/vylantze/ws/updatelist.txt</updateurl>
+<lastupdateYYMMDD>190322</lastupdateYYMMDD>
+<versionurl>https://tetsutanaka.github.io/WSoiu/version.txt</versionurl>
+<updateurl>https://tetsutanaka.github.io/WSoiu/updatelist.txt</updateurl>
 </version>
