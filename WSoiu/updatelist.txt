@@ -5,7 +5,6 @@ plugins/WSoiu/changelog.txt	https://tetsutanaka.github.io/WSoiu/changelog.txt	74
 plugins/WSoiu/defaultchat.txt	https://tetsutanaka.github.io/WSoiu/defaultchat.txt	7049
 plugins/WSoiu/others.txt	https://tetsutanaka.github.io/WSoiu/others.txt	78219
 plugins/WSoiu/version.txt	https://tetsutanaka.github.io/WSoiu/version.txt	20856
-plugins/WSoiu/uninstall.txt	https://tetsutanaka.github.io/WSoiu/uninstall.txt	3164907
 plugins/WSoiu/sets/setimages/cardback.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/cardback.jpg	-334105
 plugins/WSoiu/sets/setimages/spawned.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/spawned.jpg	5358
 images/backgrounds/wsplaymat.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/wsplaymat.jpg	-52278
