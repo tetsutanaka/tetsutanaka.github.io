@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Type	Series	Colour	Rarity	Serial	Level	Cost	Power	Soul	Trigger	Traits	Flavour	Ability1	Ability2	Ability3
+﻿Name	Set	ImageFile	Type	Series	Colour	Rarity	Serial	Level	Cost	Power	Soul	Trigger	Traits	Flavour	Ability1	Ability2	Ability3
 																	
 																	
 7th Kagero-class Destroyer, Hatsukaze	All	KCS25-E006	CH	KanColle	Y	R	KC/S25-E006	0	0	2000	1	0	Fleet Girl, Destroyer		[CONT]All of your other [Fleet Girl] characters get +500 power.	[AUTO]During the attack phase, when your character or your opponent's character is returned to hand from the waiting room, all of that player's characters get -3 soul until end of turn.	
@@ -80,10 +80,10 @@ Megumin	All	KSW49-035		KonoSuba			KS/W49-035
 Real Explosion Magic	All	KSW49-067		KonoSuba			KS/W49-067										
 Revive	All	KSW49-099		KonoSuba			KS/W49-099										
 																	
-“Board Game” Megumin	All	KSW49-037		KonoSuba			KS/W49-037										
-“Guide to Obtaining Skills” Megumin	All	KSW49-038 		KonoSuba			KS/W49-038 										
-“Sacred Create Water” Aqua	All	KSW49-077 		KonoSuba			KS/W49-077 										
-“Striking a Pose with Arms Open” Darkness	All	KSW49-013 		KonoSuba			KS/W49-013 										
+"Board Game" Megumin	All	KSW49-037		KonoSuba			KS/W49-037										
+"Guide to Obtaining Skills" Megumin	All	KSW49-038 		KonoSuba			KS/W49-038 										
+"Sacred Create Water" Aqua	All	KSW49-077 		KonoSuba			KS/W49-077 										
+"Striking a Pose with Arms Open" Darkness	All	KSW49-013 		KonoSuba			KS/W49-013 										
 Darkness	All	KSW49-001 		KonoSuba			KS/W49-001										
 																	
 """Explosion Magic Powered Up"" Megumin"	All	KSW55-053 		KonoSuba			KS/W55-053 										
@@ -171,9 +171,9 @@ Release of Armament	All	FSS34-032		Fate			FS/S34-032
 Anger Towards Evil	All	FSS34-034		Fate			FS/S34-034										
 After the Fierce Battle Nanoha	All	NRW58-044		Nanoha													
 Flower Viewing Teatime Nanoha	All	NRW58-037		Nanoha													
-“Kind and Serious” Fate	All	NRW58-101		Nanoha													
-“For the People” Hayate	All	NRW58-103		Nanoha													
-“Strike Cannon” Nanoha	All	NRW58-032		Nanoha													
+"Kind and Serious" Fate	All	NRW58-101		Nanoha													
+"For the People" Hayate	All	NRW58-103		Nanoha													
+"Strike Cannon" Nanoha	All	NRW58-032		Nanoha													
 Saint King Vivio	All	NSW04-061		Nanoha													
 Reliable Pair Alf and Zafira	All	NRW58-012		Nanoha													
 Twin Breakers	All	NRW58-051		Nanoha													
@@ -182,13 +182,13 @@ Hornet Javelin	All	NRW58-016		Nanoha
 Love Between Mother and Daughter	All	NRW58-018		Nanoha													
 As a Mother Lindy	All	NRW58-019		Nanoha													
 A New Power Nanoha	All	NRW58-023		Nanoha													
-“Fortress Mode” Nanoha	All	NRW58-024		Nanoha													
-“Formula Mode” Nanoha	All	NRW58-025		Nanoha													
+"Fortress Mode" Nanoha	All	NRW58-024		Nanoha													
+"Formula Mode" Nanoha	All	NRW58-025		Nanoha													
 A New Story Nanoha	All	NRW58-027		Nanoha													
-“As Much as She Could” Nanoha	All	NRW58-102		Nanoha													
+"As Much as She Could" Nanoha	All	NRW58-102		Nanoha													
 Moonlit Flight Nanoha	All	NRW58-030		Nanoha													
-“In the Middle of Battle” Fate	All	NRW58-009		Nanoha													
+"In the Middle of Battle” Fate	All	NRW58-009		Nanoha													
 A New Story Fate	All	NRW58-005		Nanoha													
-“Hornet Javelin” Fate	All	NRW58-002		Nanoha													
-“Blaze Form II” Fate	All	NRW58-001		Nanoha													
+"Hornet Javelin" Fate	All	NRW58-002		Nanoha													
+"Blaze Form II" Fate	All	NRW58-001		Nanoha													
 Each Other’s Will Fate	All	NRW58-008		Nanoha													
