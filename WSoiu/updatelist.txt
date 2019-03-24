@@ -8,7 +8,7 @@ plugins/WSoiu/version.txt	https://tetsutanaka.github.io/WSoiu/version.txt	19861
 plugins/WSoiu/sets/setimages/cardback.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/cardback.jpg	-334105
 plugins/WSoiu/sets/setimages/spawned.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/spawned.jpg	5358
 images/backgrounds/wsplaymat.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/wsplaymat.jpg	-52278
-plugins/WSoiu/sets/setoiu.txt	https://tetsutanaka.github.io/WSoiu/sets/setoiu.txt	640328
-plugins/WSoiu/sets/setfunky.txt	https://tetsutanaka.github.io/WSoiu/sets/setfunky.txt	1224660
+plugins/WSoiu/sets/setoiu.txt	https://tetsutanaka.github.io/WSoiu/sets/setoiu.txt	641351
+plugins/WSoiu/sets/setfunky.txt	https://tetsutanaka.github.io/WSoiu/sets/setfunky.txt	1226553
 CardGeneralURLs:
 https://tetsutanaka.github.io/WSoiu/sets/setimages/All/
