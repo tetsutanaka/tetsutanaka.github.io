@@ -6,7 +6,7 @@ Shamal, Overslept	All	N2W32-083	CH	Nanoha	R	U	N2/W32-083	0	0	2000	1	0	Magic		"[A
 																	
 Vita, Heroic Determination	All	N2W32-058	CH	Nanoha	R	R	N2/W32-058	1	1	6500	1	0	Magic, Doll		[AUTO][(1)] When this card attacks, if [For Hayate] is in the Climax Slot, you may pay the cost. If you did, all your Characters, during that turn, gain the following ability. [[AUTO] When this card is placed into Waiting Room from Stage, place this card into its previous slot in REST.]		
 																	
-Vita, First Time Fighting Together	All	N2W32-066	CH	Nanoha	R	U	N2/W32-066	2	1	4500	1	1	Magic, Doll		[AUTO] When your other Character becomes REVERSE in battle, choose 1 of your Character with [Vita] in its name, during that turn, it gets +1000 Power.	[START] ÅmREST this cardÅn Choose 1 of your Character, during that turn, it gets +3000 Power.	itnto 
+Vita, First Time Fighting Together	All	N2W32-066	CH	Nanoha	R	U	N2/W32-066	2	1	4500	1	1	Magic, Doll		[AUTO] When your other Character becomes REVERSE in battle, choose 1 of your Character with [Vita] in its name, during that turn, it gets +1000 Power.	[START] ÔøΩmREST this cardÔøΩn Choose 1 of your Character, during that turn, it gets +3000 Power.	itnto 
 Vita, Bureau Worker	All	N2W32-073	CH	Nanoha	R	C	N2/W32-073	2	1	2500	1	1	Magic, Doll		[START] ASSIST 3000 Level 2[(1) Place this card from Hand to Waiting Room] (Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)		
 																	
 Vita, Angry Look	All	N2W25-032	CH	Nanoha	R	RR	N2/W25-032	3	2	10000	2	1	Magic, Doll		[CONT] If you have 6 or more Climaxes in Waiting Room, this card gets -1 Level in your Hand.	[CONT] This card cannot become REVERSE by your opponent's Character's [AUTO] ability.	[AUTO][(1)] During your turn, if this card's battle opponent becomes REVERSE, you may pay the cost. If you did, choose 1 of your opponent's Character in the Front Row with Level 2 or lower, place it to the top of the Deck.
@@ -20,7 +20,7 @@ Crimson Iron Knight Vita SP	All	NAW12-051SP_WT	CH	Nanoha	R	SP	NA/W12-051	1	0	450
 Vita & Zafira	All	NAW12-059_WT	CH	Nanoha	R	U	NA/W12-059	1	0	3000	1	0	Magic, Familiar		[C] If you have 3 or more other <Magic> Characters, this card gets +1000 Power.	[A] When this card becomes REVERSE, if the Character battling this card is Level 1 or less, you may put that Character to REVERSE.	
 Iron Hammer Knight Vita	All	NSW04-056_WT	CH	Nanoha	R	R	NS/W04-056	2	1	5000	1	1	Magic, Weapon	Let's go, Eisen!	[A] [(1)] When this card attacks and the Climax <<Break Through-!>> is in play, you may pay the cost. Deal one Damage to your opponent. (Damage Cancellation still applies)	[A] When this card becomes REVERSE, if the Character battling this card is Level 2 or less, you may put that Character to REVERSE.	
 Present From Hayate	All	NAW12-071_WT	EV	Nanoha	R	U	NA/W12-071	1	1			0			Choose up to 2 Characters with <<Vita>> in its name from your Waiting Room, return to your hand, then discard 1 card from your hand to Waiting Room.		
-Break Through-!	All	NSW04-074_WT	CX	Nanoha	R	CC	NS/W04-074					D		Zerstˆrungs...hammer---!! Ahhhhhhhhhhh!!	[C] All your Characters get +1000 Power and +1 Soul.		ru
+Break Through-!	All	NSW04-074_WT	CX	Nanoha	R	CC	NS/W04-074					D		ZerstÔøΩrungs...hammer---!! Ahhhhhhhhhhh!!	[C] All your Characters get +1000 Power and +1 Soul.		ru
 																	
 Yagami Family Vita	All	NAW12-062_WT	CH	Nanoha	R	U	NA/W12-062	2	2	8500	2	1	Magic, Doll		[C] RECOLLECTION When you have 3 or more cards in Memory, this card gains the following ability.<<[A] When your other battling Characters become REVERSE, during this turn, this card gets +2000 Power.>>		
 Knight Of The Lake Shamal SP	All	NAW12-080SP_WT	CH	Nanoha	B	SP	NA/W12-080	1	0	3000	1	0	Magic		[C] All your other Characters with <<Signum>> in its name gets +500 Power.	[A] When <<The Healing Power>> is placed into your Climax slot, place the top 3 cards of your Deck into Waiting Room. If all of the cards are <Magic> Characters, place the top card of your Clock into Waiting Room.	[S] [Put this card to REST] Choose 1 of your Characters with <<Vita>> in its name, during this turn, it gets +1 Soul.
@@ -42,23 +42,23 @@ Time Space Administration Bureau Vita	All	NRW58-034		Nanoha			NR/W58-034
 Examining the Story Vita	All	NRW58-036		Nanoha			NR/W58-036										
 Summer Leisure Vita	All	NRW58-041		Nanoha			NRW58-041										
 Protecting the City	All	NRW58-052		Nanoha			NR/W58-052										
-ÅgKnightÅfs Armor ImprovedÅh Hayate	All	NRW58-033		Nanoha													
-ÅgA New StoryÅh Hayate	All	NRW58-062		Nanoha													
-ÅgFusion KnightÅh Reinforce II	All	NRW58-076		Nanoha													
+‚ÄúKnight‚Äôs Armor Improved‚Äùh Hayate	All	NRW58-033		Nanoha													
+‚ÄúA New Story‚Äù Hayate	All	NRW58-062		Nanoha													
+‚ÄúFusion Knight‚Äù Reinforce II	All	NRW58-076		Nanoha													
 Time Space Administration Bureau Signum	All	NRW58-006		Nanoha													
 Exercise Outfit Rein	All	NRW58-056		Nanoha													
 Planet-Killing Demon	All	NRW58-100		Nanoha													
 Mysterious Girl Yuri	All	NRW58-092		Nanoha													
-ÅgAdmires the KingÅh Levi	All	NRW58-106		Nanoha													
-ÅgRespects the KingÅh Stern	All	NRW58-105		Nanoha													
-ÅgFor Her Own PurposesÅh Dearche	All	NRW58-104		Nanoha													
+‚ÄúAdmires the King‚Äù Levi	All	NRW58-106		Nanoha													
+‚ÄúRespects the King‚Äù Stern	All	NRW58-105		Nanoha													
+‚ÄúFor Her Own Purposes‚Äù Dearche	All	NRW58-104		Nanoha													
 A King and her Servants	All	NRW58-098		Nanoha													
 Right Arm of the King Stern	All	NRW58-089		Nanoha													
 Serious and Loyal Stern	All	NRW58-088		Nanoha													
 Childish Levi	All	NRW58-087		Nanoha													
 Unwavering Trust Levi	All	NRW58-084		Nanoha													
 Shudderingly Dark Dearche	All	NRW58-080		Nanoha													
-KingÅfs Soul Dearche	All	NRW58-079		Nanoha													
+King‚Äôs Soul Dearche	All	NRW58-079		Nanoha													
 Grand Desire Dearche	All	NRW58-077		Nanoha													
 Unrepressed Stance Levi	All	NRW58-074		Nanoha													
 Fire Magic Stern	All	NRW58-073		Nanoha													
