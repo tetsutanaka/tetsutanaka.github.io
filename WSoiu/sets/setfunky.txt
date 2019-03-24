@@ -169,3 +169,7 @@ Demolition	All	FZS17-E026		Fate			FZ/S17-E026
 																	
 Release of Armament	All	FSS34-032		Fate			FS/S34-032										
 Anger Towards Evil	All	FSS34-034		Fate			FS/S34-034										
+After the Fierce Battle Nanoha	All	NRW58-044		Nanoha													
+Flower Viewing Teatime Nanoha	All	NRW58-037		Nanoha													
+ÅgKind and SeriousÅh Fate	All	NRW58-101		Nanoha													
+ÅgFor the PeopleÅh Hayate	All	NRW58-103		Nanoha													
