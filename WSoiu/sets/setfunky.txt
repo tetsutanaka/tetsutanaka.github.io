@@ -192,4 +192,4 @@ A New Story Fate	All	NRW58-005		Nanoha
 "Hornet Javelin" Fate	All	NRW58-002		Nanoha													
 "Blaze Form II" Fate	All	NRW58-001		Nanoha													
 Each Other's Will Fate	All	NRW58-008		Nanoha													
-Determined Eyes Fate    All NRW58-003       Nanoha
+Determined Eyes Fate    All	NRW58-003		Nanoha
