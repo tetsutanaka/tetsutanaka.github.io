@@ -1,4 +1,4 @@
-WSoiu	03-24-19
+WSoiu	03-30-19
 plugins/WSoiu/plugininfo.txt	https://tetsutanaka.github.io/WSoiu/plugininfo.txt	431592
 plugins/WSoiu/readme.txt	https://tetsutanaka.github.io/WSoiu/readme.txt	285216
 plugins/WSoiu/changelog.txt	https://tetsutanaka.github.io/WSoiu/changelog.txt	745387
