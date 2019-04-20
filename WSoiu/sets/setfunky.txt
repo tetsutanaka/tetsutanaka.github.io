@@ -80,13 +80,13 @@ Megumin	All	KSW49-035		KonoSuba			KS/W49-035
 Real Explosion Magic	All	KSW49-067		KonoSuba			KS/W49-067										
 Revive	All	KSW49-099		KonoSuba			KS/W49-099										
 																	
-"Board Game" Megumin	All	KSW49-037		KonoSuba			KS/W49-037										
-"Guide to Obtaining Skills" Megumin	All	KSW49-038 		KonoSuba			KS/W49-038 										
-"Sacred Create Water" Aqua	All	KSW49-077 		KonoSuba			KS/W49-077 										
-"Striking a Pose with Arms Open" Darkness	All	KSW49-013 		KonoSuba			KS/W49-013 										
+"Board Game"" Megumin	All	KSW49-037		KonoSuba			KS/W49-037										
+""Guide to Obtaining Skills"" Megumin	All	KSW49-038 		KonoSuba			KS/W49-038 										
+""Sacred Create Water"" Aqua	All	KSW49-077 		KonoSuba			KS/W49-077 										
+""Striking a Pose with Arms Open"" Darkness	All	KSW49-013 		KonoSuba			KS/W49-013 										
 Darkness	All	KSW49-001 		KonoSuba			KS/W49-001										
 																	
-"""Explosion Magic Powered Up"" Megumin"	All	KSW55-053 		KonoSuba			KS/W55-053 										
+""""Explosion Magic Powered Up"" Megumin"	All	KSW55-053 		KonoSuba			KS/W55-053 										
 """Running Off"" Aqua"	All	KSW55-079 		KonoSuba			KS/W55-079 										
 Eris in Swimsuit	All	KSW55-081 		KonoSuba			KS/W55-081 										
 """Salvation of the Soul"" Aqua"	All	KSW55-082 		KonoSuba			KS/W55-082 										
@@ -171,9 +171,9 @@ Release of Armament	All	FSS34-032		Fate			FS/S34-032
 Anger Towards Evil	All	FSS34-034		Fate			FS/S34-034										
 After the Fierce Battle Nanoha	All	NRW58-044		Nanoha													
 Flower Viewing Teatime Nanoha	All	NRW58-037		Nanoha													
-"Kind and Serious" Fate	All	NRW58-101		Nanoha													
-"For the People" Hayate	All	NRW58-103		Nanoha													
-"Strike Cannon" Nanoha	All	NRW58-032		Nanoha													
+"Kind and Serious"" Fate	All	NRW58-101		Nanoha													
+""For the People"" Hayate	All	NRW58-103		Nanoha													
+""Strike Cannon"" Nanoha	All	NRW58-032		Nanoha													
 Saint King Vivio	All	NSW04-061		Nanoha													
 Reliable Pair Alf and Zafira	All	NRW58-012		Nanoha													
 Twin Breakers	All	NRW58-051		Nanoha													
@@ -182,14 +182,35 @@ Hornet Javelin	All	NRW58-016		Nanoha
 Love Between Mother and Daughter	All	NRW58-018		Nanoha													
 As a Mother Lindy	All	NRW58-019		Nanoha													
 A New Power Nanoha	All	NRW58-023		Nanoha													
-"Fortress Mode" Nanoha	All	NRW58-024		Nanoha													
-"Formula Mode" Nanoha	All	NRW58-025		Nanoha													
+""Fortress Mode"" Nanoha	All	NRW58-024		Nanoha													
+""Formula Mode"" Nanoha	All	NRW58-025		Nanoha													
 A New Story Nanoha	All	NRW58-027		Nanoha													
-"As Much as She Could" Nanoha	All	NRW58-102		Nanoha													
+""As Much as She Could"" Nanoha	All	NRW58-102		Nanoha													
 Moonlit Flight Nanoha	All	NRW58-030		Nanoha													
-"In the Middle of BattleÅh Fate	All	NRW58-009		Nanoha													
+""In the Middle of BattleÅh Fate	All	NRW58-009		Nanoha													
 A New Story Fate	All	NRW58-005		Nanoha													
-"Hornet Javelin" Fate	All	NRW58-002		Nanoha													
-"Blaze Form II" Fate	All	NRW58-001		Nanoha													
+""Hornet Javelin"" Fate	All	NRW58-002		Nanoha													
+""Blaze Form II"" Fate	All	NRW58-001		Nanoha													
 Each OtherÅfs Will Fate	All	NRW58-008		Nanoha													
 Determined Eyes Fate	All	NRW58-003		Nanoha
+"																	
+																	
+Gurren Lagann Double Boomerang Spiral		GL552-061		Gurren													
+Battle with the Moon		GL552-087		Gurren													
+My drill! Is the drill that creates the heavens!!!!		GL552-088		Gurren													
+My Feelings Nia		GL552-042		Gurren													
+Power of the Drill Lagann		GL552-065		Gurren													
+Official Member of Team Dai-Gurren Boota		GL552-064		Gurren													
+Strong Will Simon		GL552-066		Gurren													
+Nia		GL552-033		Gurren													
+Tengen Toppa Gurren Lagann		GL552-063		Gurren													
+To Save the Woman he Loves Simon		GL552-060		Gurren													
+Gurren Lagann		GL552-068		Gurren													
+Commanding General Simon		GL552-071		Gurren													
+Super Galaxy Gurren Lagann		GL552-070		Gurren													
+Super Galaxy Dai-Gurren		GL552-069		Gurren													
+Core Drill		GL552-084		Gurren													
+Lagann Impact! Lagann		GL552-078		Gurren													
+Piercing Emotions Simon and Nia		GL552-074		Gurren													
+Arc-Gurren Lagann		GL552-076		Gurren													
+Evolved by the Power of the Spiral Boota		GL552-073		Gurren													
