@@ -195,22 +195,22 @@ Each OtherÅfs Will Fate	All	NRW58-008		Nanoha
 Determined Eyes Fate	All	NRW58-003		Nanoha
 "																	
 																	
-Gurren Lagann Double Boomerang Spiral		GL552-061		Gurren													
-Battle with the Moon		GL552-087		Gurren													
-My drill! Is the drill that creates the heavens!!!!		GL552-088		Gurren													
-My Feelings Nia		GL552-042		Gurren													
-Power of the Drill Lagann		GL552-065		Gurren													
-Official Member of Team Dai-Gurren Boota		GL552-064		Gurren													
-Strong Will Simon		GL552-066		Gurren													
-Nia		GL552-033		Gurren													
-Tengen Toppa Gurren Lagann		GL552-063		Gurren													
-To Save the Woman he Loves Simon		GL552-060		Gurren													
-Gurren Lagann		GL552-068		Gurren													
-Commanding General Simon		GL552-071		Gurren													
-Super Galaxy Gurren Lagann		GL552-070		Gurren													
-Super Galaxy Dai-Gurren		GL552-069		Gurren													
-Core Drill		GL552-084		Gurren													
-Lagann Impact! Lagann		GL552-078		Gurren													
-Piercing Emotions Simon and Nia		GL552-074		Gurren													
-Arc-Gurren Lagann		GL552-076		Gurren													
-Evolved by the Power of the Spiral Boota		GL552-073		Gurren													
+Gurren Lagann Double Boomerang Spiral	All	GL552-061		Gurren													
+Battle with the Moon	All	GL552-087		Gurren													
+My drill! Is the drill that creates the heavens!!!!	All	GL552-088		Gurren													
+My Feelings Nia	All	GL552-042		Gurren													
+Power of the Drill Lagann	All	GL552-065		Gurren													
+Official Member of Team Dai-Gurren Boota	All	GL552-064		Gurren													
+Strong Will Simon	All	GL552-066		Gurren													
+Nia	All	GL552-033		Gurren													
+Tengen Toppa Gurren Lagann	All	GL552-063		Gurren													
+To Save the Woman he Loves Simon	All	GL552-060		Gurren													
+Gurren Lagann	All	GL552-068		Gurren													
+Commanding General Simon	All	GL552-071		Gurren													
+Super Galaxy Gurren Lagann	All	GL552-070		Gurren													
+Super Galaxy Dai-Gurren	All	GL552-069		Gurren													
+Core Drill	All	GL552-084		Gurren													
+Lagann Impact! Lagann	All	GL552-078		Gurren													
+Piercing Emotions Simon and Nia	All	GL552-074		Gurren													
+Arc-Gurren Lagann	All	GL552-076		Gurren													
+Evolved by the Power of the Spiral Boota	All	GL552-073		Gurren													
