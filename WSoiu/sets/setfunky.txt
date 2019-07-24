@@ -214,3 +214,12 @@ Lagann Impact! Lagann	All	GL552-078		Gurren
 Piercing Emotions Simon and Nia	All	GL552-074		Gurren													
 Arc-Gurren Lagann	All	GL552-076		Gurren													
 Evolved by the Power of the Spiral Boota	All	GL552-073		Gurren													
+																	
+Underway Replenishment	All	KCS42-072		KanColle													
+Fumidzuki, 7th Mutsuki-class Destroyer	All	KCS25-102		KanColle													
+Akatsuki, 1st Akatsuki-class Destroyer	All	KCS25-046		KanColle													
+Irako, Food Supply Ship 	All	KCS31-096		KanColle													
+Amatsukaze Kai, 9th Youen-class Destroyer	All	KCS31-005		KanColle													
+Z3, 3rd Z1-class Destroyer	All	KCS42-037		KanColle													
+Z1, 1st Z1-class Destroyer	All	KCS42-043		KanColle													
+As Fast as Island Winds	All	KCS25-034		KanColle													

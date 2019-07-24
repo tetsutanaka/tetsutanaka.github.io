@@ -1,7 +1,7 @@
 Name	Set	ImageFile	Type	Series	Colour	Rarity	Serial	Level	Cost	Power	Soul	Trigger	Traits	Flavour	Ability1	Ability2	Ability3
 																	
 																	
-"Hayate, Master of Yagami Household"	All	N2W25-064	CH	Nanoha	R	U	N2/W25-064	0	0	2000	1	0	Book		"[AUTO] This ability can only be activated 2 times each turn. When your other [Magic] Characters or Characters with ""Hayate"" in its name is placed on Stage from Hand, during this turn, this card gets +1000 Power."	[AUTO][(1)] When this card is REVERSE during battle, you may pay the cost. If you did, place this card into Memory.	
+Hayate, Master of Yagami Household	All	N2W25-064	CH	Nanoha	R	U	N2/W25-064	0	0	2000	1	0	Book		"[AUTO] This ability can only be activated 2 times each turn. When your other [Magic] Characters or Characters with ""Hayate"" in its name is placed on Stage from Hand, during this turn, this card gets +1000 Power."	[AUTO][(1)] When this card is REVERSE during battle, you may pay the cost. If you did, place this card into Memory.	
 Shamal, Overslept	All	N2W32-083	CH	Nanoha	R	U	N2/W32-083	0	0	2000	1	0	Magic		"[AUTO][(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 [Magic] Character or Character with ""Hayate"" in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."		
 																	
 Vita, Heroic Determination	All	N2W32-058	CH	Nanoha	R	R	N2/W32-058	1	1	6500	1	0	Magic, Doll		[AUTO][(1)] When this card attacks, if [For Hayate] is in the Climax Slot, you may pay the cost. If you did, all your Characters, during that turn, gain the following ability. [[AUTO] When this card is placed into Waiting Room from Stage, place this card into its previous slot in REST.]		
@@ -42,16 +42,16 @@ Time Space Administration Bureau Vita	All	NRW58-034		Nanoha			NR/W58-034
 Examining the Story Vita	All	NRW58-036		Nanoha			NR/W58-036										
 Summer Leisure Vita	All	NRW58-041		Nanoha			NRW58-041										
 Protecting the City	All	NRW58-052		Nanoha			NR/W58-052										
-"KnightÅfs Armor Improved" Hayate	All	NRW58-033		Nanoha													
-"A New Story" Hayate	All	NRW58-062		Nanoha													
-"Fusion Knight" Reinforce II	All	NRW58-076		Nanoha													
+"KnightÅfs Armor Improved"" Hayate	All	NRW58-033		Nanoha													
+""A New Story"" Hayate	All	NRW58-062		Nanoha													
+""Fusion Knight"" Reinforce II	All	NRW58-076		Nanoha													
 Time Space Administration Bureau Signum	All	NRW58-006		Nanoha													
 Exercise Outfit Rein	All	NRW58-056		Nanoha													
 Planet-Killing Demon	All	NRW58-100		Nanoha													
 Mysterious Girl Yuri	All	NRW58-092		Nanoha													
-"Admires the King" Levi	All	NRW58-106		Nanoha													
-"Respects the King" Stern	All	NRW58-105		Nanoha													
-"For Her Own Purposes" Dearche	All	NRW58-104		Nanoha													
+""Admires the King"" Levi	All	NRW58-106		Nanoha													
+""Respects the King"" Stern	All	NRW58-105		Nanoha													
+""For Her Own Purposes"" Dearche	All	NRW58-104		Nanoha													
 A King and her Servants	All	NRW58-098		Nanoha													
 Right Arm of the King Stern	All	NRW58-089		Nanoha													
 Serious and Loyal Stern	All	NRW58-088		Nanoha													
@@ -66,3 +66,32 @@ Questioning Resolve Stern	All	NRW58-070		Nanoha
 Darkness Magic Dearche	All	NRW58-065		Nanoha													
 Lightning Magic Levi	All	NRW58-057		Nanoha													
 -THE GEARS OF DESTINY-	All	NAW12-111		Nanoha													
+"																	
+																	
+Beginning of the End	All	NRW58-095		Nanoha													
+Eltrian Girl Kyrie	All	NRW58-094		Nanoha													
+Eltrian Girl Iris	All	NRW58-093		Nanoha													
+Childhood Kyrie	All	NRW58-081		Nanoha													
+Variant Fencer Kyrie	All	NRW58-078		Nanoha													
+Anger and Sorrow Kyrie	All	NRW58-071		Nanoha													
+Day of Journey Kyrie	All	NRW58-069		Nanoha													
+Awakened from the Relic Board Iris	All	NRW58-067		Nanoha													
+Opposing Sisters Kyrie	All	NRW58-064		Nanoha													
+Each PersonÅfs Will Kyrie	All	NRW58-063		Nanoha													
+Artificial Intelligence Iris	All	NRW58-061		Nanoha													
+For her Homeland Kyrie	All	NRW58-060		Nanoha													
+Formula Suit Type-K Kyrie	All	NRW58-058		Nanoha													
+Piercing Will Kyrie	All	NRW58-054		Nanoha													
+Runaway Savior Amita	All	NRW58-046		Nanoha													
+Childhood Amita	All	NRW58-043		Nanoha													
+Eltrian Girl Amita	All	NRW58-040		Nanoha													
+Saving Her Sister Amita	All	NRW58-039		Nanoha													
+Close Sisters Amita and Kyrie	All	NRW58-038		Nanoha													
+Passing of Powers Amita	All	NRW58-035		Nanoha													
+For the Family Amita	All	NRW58-033A		Nanoha													
+Formula Suit Type-A Amita	All	NRW58-031		Nanoha													
+Opposing Sisters Amita	All	NRW58-028		Nanoha													
+Variant Zapper Amita	All	NRW58-026		Nanoha													
+Saved by the Magicians	All	NRW58-050		Nanoha													
+Plotting to Save the World	All	NRW58-097		Nanoha													
+Cruel Words	All	NRW58-099		Nanoha													

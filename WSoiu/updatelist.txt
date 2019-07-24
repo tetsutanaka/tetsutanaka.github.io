@@ -1,4 +1,4 @@
-WSoiu	04-20-19
+WSoiu	07-23-19
 plugins/WSoiu/plugininfo.txt	https://tetsutanaka.github.io/WSoiu/plugininfo.txt	431592
 plugins/WSoiu/readme.txt	https://tetsutanaka.github.io/WSoiu/readme.txt	285216
 plugins/WSoiu/changelog.txt	https://tetsutanaka.github.io/WSoiu/changelog.txt	745387
@@ -8,7 +8,7 @@ plugins/WSoiu/version.txt	https://tetsutanaka.github.io/WSoiu/version.txt	19861
 plugins/WSoiu/sets/setimages/cardback.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/cardback.jpg	-334105
 plugins/WSoiu/sets/setimages/spawned.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/spawned.jpg	5358
 images/backgrounds/wsplaymat.jpg	https://tetsutanaka.github.io/WSoiu/sets/setimages/wsplaymat.jpg	-52278
-plugins/WSoiu/sets/setoiu.txt	https://tetsutanaka.github.io/WSoiu/sets/setoiu.txt	641351
-plugins/WSoiu/sets/setfunky.txt	https://tetsutanaka.github.io/WSoiu/sets/setfunky.txt	1304139
+plugins/WSoiu/sets/setoiu.txt	https://tetsutanaka.github.io/WSoiu/sets/setoiu.txt	739233
+plugins/WSoiu/sets/setfunky.txt	https://tetsutanaka.github.io/WSoiu/sets/setfunky.txt	1340169
 CardGeneralURLs:
 https://tetsutanaka.github.io/WSoiu/sets/setimages/All/
