@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>1290723</lastupdateYYMMDD>
+<lastupdateYYMMDD>190724</lastupdateYYMMDD>
 <versionurl>https://tetsutanaka.github.io/WSoiu/version.txt</versionurl>
 <updateurl>https://tetsutanaka.github.io/WSoiu/updatelist.txt</updateurl>
 </version>

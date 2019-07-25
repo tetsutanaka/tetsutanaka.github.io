@@ -223,3 +223,4 @@ Amatsukaze Kai, 9th Youen-class Destroyer	All	KCS31-005		KanColle
 Z3, 3rd Z1-class Destroyer	All	KCS42-037		KanColle													
 Z1, 1st Z1-class Destroyer	All	KCS42-043		KanColle													
 As Fast as Island Winds	All	KCS25-034		KanColle													
+Shimakaze Kai, Shimakaze-class Destroyer	All	KCS25-015		KanColle													
