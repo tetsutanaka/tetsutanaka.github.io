@@ -95,3 +95,19 @@ Variant Zapper Amita	All	NRW58-026		Nanoha
 Saved by the Magicians	All	NRW58-050		Nanoha													
 Plotting to Save the World	All	NRW58-097		Nanoha													
 Cruel Words	All	NRW58-099		Nanoha													
+																	
+Kekkaiboueisen Shamal	All	NDW67-063		NanoDet													
+Shujin e no Ongaeshi Stern	All	NDW67-093		NanoDet													
+Wareraga Konshin no Ongaeshi	All	NDW67-095		NanoDet													
+Sangeki no Kioku	All	NDW67-099		NanoDet													
+Reisei na Handan Stern	All	NDW67-089		NanoDet													
+Heion na Nichijou Dearche	All	NDW67-062		NanoDet													
+Wasureenu Dekigoto Yuri	All	NDW67-064		NanoDet													
+Sunao de Massugu Levi	All	NDW67-067		NanoDet													
+Owakare no Aisatsu Stern	All	NDW67-070		NanoDet													
+Omoi to Tomoni Dearche	All	NDW67-074		NanoDet													
+Heion na Nichijou Stern	All	NDW67-051		NanoDet													
+Eltria no Neko Stern	All	NDW67-052		NanoDet													
+Eltria no Neko Levi	All	NDW67-048		NanoDet													
+Ashita wo Kirihiraku Ichigeki Dearche	All	NDW67-046		NanoDet													
+Heion na Nichijou Levi	All	NDW67-053		NanoDet													

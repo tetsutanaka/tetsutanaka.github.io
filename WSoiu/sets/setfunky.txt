@@ -3,59 +3,59 @@ Name	Set	ImageFile	Type	Series	Colour	Rarity	Serial	Level	Cost	Power	Soul	Trigge
 																	
 7th Kagero-class Destroyer, Hatsukaze	All	KCS25-E006	CH	KanColle	Y	R	KC/S25-E006	0	0	2000	1	0	Fleet Girl, Destroyer		[CONT]All of your other [Fleet Girl] characters get +500 power.	[AUTO]During the attack phase, when your character or your opponent's character is returned to hand from the waiting room, all of that player's characters get -3 soul until end of turn.	
  9th Fubuki-class Destroyer, Isonami	All	KCS25-E106	CH	KanColle	R	C	KC/S25-E106	0	0	2500	1	0	Fleet Girl, Destroyer		[CONT]All of your other ?Fleet Girl? characters get +500 power.	[AUTO]When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a [Fleet Girl] character, [REST]this card. (The revealed card is returned to its original place)	
-Akatsuki, A Moment in Winter	All	KCS31-040	CH	KanColle	G	U	KC/S31-040	0	0	2000	1	0	Fleet Girl, Destroyer		[AUTO][Place 1 card into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look up to the top 4 cards of your Deck, choose up to 1 [Fleet Girl] Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room.		
-Uzuki, 4th Mutsuki-class Destroyer	All	KCS31-064	CH	KanColle	R	U	KC/S31-064	0	0	500	1	0	Fleet Girl, Destroyer		[CONT]When the [START] Cost of a Character from your Hand or Stage is being paid, you may place 1 marker under this card into Waiting Room instead of 1 Stock.	[AUTO] When this card is placed on Stage from Hand, choose 1 [Uzuki, 4th Mutsuki-class Destroyer] from your Waiting Room, you may place it under this card faced down as a marker.	[AUTO]This ability can only be activated once each turn. When you use [START], choose 1 of your Character, during that turn, it gets +1000 Power.
-Shiratsuyu Kai, Pride of Nameship	All	KCS31-079	CH	KanColle	B	R	KC/S31-079	0	0	2500	1	0	Fleet Girl, Destroyer		[AUTO] At the beginning of your opponent's Attack Phase, if this card is in the Front Row, place the top card of your Deck into Waiting Room. If that card is Level 1 or higher, place this card into Waiting Room. If that card is Level 0 or lower, you may move this card into another empty slot in the Front Row. ?iClimax is treated as Level 0?j	[S ]CONCENTRATION ?m(1) REST 2 of your Characters?n Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw up to 1 card.	
-Kawakaze, 9th Shiratsuyu-class Destroyer	All	KCS42-076	CH	KanColle	B	R	KC/S42-076	0	0	2000	1	0	Fleet Girl, Destroyer		[AUTO]?mPlace this card into Clock?n When this card becomes REVERSE in battle, you may pay the Cost. If you did, reveal the top card of your Deck. If that card is a [Destroyer] Character, add it to Hand. (If not, return revealed card to its original position)		d 
-Urakaze in the Middle of the Festival	All	KCS42-003	CH	KanColle	Y	R	KC/S42-003	1	0	4000	1	0	Fleet Girl, Destroyer		[CONT]For each of your other [Destroyer] Characters, this card gets +500 Power.	[AUTO] When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.	
-Teruzuki, 2nd Akizuki-class Destroyer	All	KCS42-014	CH	KanColle	Y	U	KC/S42-014	1	0	4500	1	0	Fleet Girl, Destroyer		[AUTO] When this card attacks, if [Main Gun, Prepare for Anti-Air Combat!] is in the Climax slot, reveal the top card of your Deck. If that card is a [Fleet Girl] Character, add it to Hand. (If not, return revealed card to its original position)	[AUTO]ENCORE [Place 1 Character from Hand into Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)	
-Nowaki, 15th Kagero-class Destroyer	All	KCS42-015	CH	KanColle	Y	U	KC/S42-015	1	1	6000	1	0	Fleet Girl, Destroyer		[CONT] For each of your other [Fleet Girl] Characters, this card gets +500 Power.		
-Murasame Kai, Between Spurts of Rain	All	KCS42-079	CH	KanColle	B	R	KC/S42-079	1	1	2000	1	1	Fleet Girl, Destroyer		[AUTO] When you use this card's ASSIST, choose 1 of your Character in battle, during this turn, it gets +X Power, X is equals to the number of your [Destroyer] Characters x500.	[START] ASSIST 500 Level 1 [(1) Place this card from Hand into Waiting Room] (Choose 1 of your Characters being Front Attacked, during that turn, it gets +500 Power)	
-Harusame Kai, 5th Shiratsuyu-class Destroyer	All	KCS42-093	CH	KanColle	B	C	KC/S42-093	1	1	6000	1	0	Fleet Girl, Destroyer		[CONT] For each Marker under this card, this card gets +1000 Power.	[AUTO]This ability can only be activated up to 1 time each turn. When you played [Drum Can(Transport Use)], you may place the top card of your Deck under this card as a Marker.	[AUTO] When this card's battle opponent becomes REVERSE, you may place the top card of your Deck under this card as a Marker.
-Isokaze, Savory Season	All	KCS42-016	CH	KanColle	Y	U	KC/S42-016	2	1	6000	1	1	Fleet Girl, Destroyer		[CONT] SUPPORT All your [Destroyer] Characters in front of this card get +1500 Power.	[AUTO][(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the Cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.	
-Hatsuzuki, 4th Akizuki-class Destroyer	All	KCS42-024	CH	KanColle	Y	C	KC/S42-024	2	1	8000	1	1	Fleet Girl, Destroyer		[AUTO] When this card attacks, if [Onee-san, Leave This to Me] is in the Climax slot, choose 1 of your other Characters, return it to Hand, during this turn, this card gets +3500 Power, at the beginning of your Encore Step, place this card into Stock.		
-Yuudachi Kai-Ni, A Moment in Mid-Summer	All	KCS42-096	CH	KanColle	B	C	KC/S42-096	2	2	6500	2	1	Fleet Girl, Destroyer		[CONT]For each of your other [Destroyer] Characters, this card gets +1000 Power.	[AUTO]ENCORE [Place 1 Blue card from Hand into Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)	
-Fubuki Kai-Ni, 1st Fubuki-class Destroyer	All	KCS42-060	CH	KanColle	R	RR	KC/S42-060	3	2	10000	2	1	Fleet Girl, Destroyer		[AUTO] When this card is placed on Stage from Hand, draw up to 1 Card, during this turn, this card gets +2000 Power.	[AUTO][(3) Place 2 cards from Hand into Waiting Room] When this card attacks, you may pay the Cost. If you did, deal X Damage to your opponent. X is equals to the number of your other [Destroyer] Characters. (Damage can be cancelled)	
+Akatsuki, A Moment in Winter	All	KCS31-040	CH	KanColle2nd	G	U	KC/S31-040	0	0	2000	1	0	Fleet Girl, Destroyer		[AUTO][Place 1 card into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look up to the top 4 cards of your Deck, choose up to 1 [Fleet Girl] Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room.		
+Uzuki, 4th Mutsuki-class Destroyer	All	KCS31-064	CH	KanColle2nd	R	U	KC/S31-064	0	0	500	1	0	Fleet Girl, Destroyer		[CONT]When the [START] Cost of a Character from your Hand or Stage is being paid, you may place 1 marker under this card into Waiting Room instead of 1 Stock.	[AUTO] When this card is placed on Stage from Hand, choose 1 [Uzuki, 4th Mutsuki-class Destroyer] from your Waiting Room, you may place it under this card faced down as a marker.	[AUTO]This ability can only be activated once each turn. When you use [START], choose 1 of your Character, during that turn, it gets +1000 Power.
+Shiratsuyu Kai, Pride of Nameship	All	KCS31-079	CH	KanColle2nd	B	R	KC/S31-079	0	0	2500	1	0	Fleet Girl, Destroyer		[AUTO] At the beginning of your opponent's Attack Phase, if this card is in the Front Row, place the top card of your Deck into Waiting Room. If that card is Level 1 or higher, place this card into Waiting Room. If that card is Level 0 or lower, you may move this card into another empty slot in the Front Row. ?iClimax is treated as Level 0?j	[S ]CONCENTRATION ?m(1) REST 2 of your Characters?n Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw up to 1 card.	
+Kawakaze, 9th Shiratsuyu-class Destroyer	All	KCS42-076	CH	KanColleEuro	B	R	KC/S42-076	0	0	2000	1	0	Fleet Girl, Destroyer		[AUTO]?mPlace this card into Clock?n When this card becomes REVERSE in battle, you may pay the Cost. If you did, reveal the top card of your Deck. If that card is a [Destroyer] Character, add it to Hand. (If not, return revealed card to its original position)		d 
+Urakaze in the Middle of the Festival	All	KCS42-003	CH	KanColleEuro	Y	R	KC/S42-003	1	0	4000	1	0	Fleet Girl, Destroyer		[CONT]For each of your other [Destroyer] Characters, this card gets +500 Power.	[AUTO] When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.	
+Teruzuki, 2nd Akizuki-class Destroyer	All	KCS42-014	CH	KanColleEuro	Y	U	KC/S42-014	1	0	4500	1	0	Fleet Girl, Destroyer		[AUTO] When this card attacks, if [Main Gun, Prepare for Anti-Air Combat!] is in the Climax slot, reveal the top card of your Deck. If that card is a [Fleet Girl] Character, add it to Hand. (If not, return revealed card to its original position)	[AUTO]ENCORE [Place 1 Character from Hand into Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)	
+Nowaki, 15th Kagero-class Destroyer	All	KCS42-015	CH	KanColleEuro	Y	U	KC/S42-015	1	1	6000	1	0	Fleet Girl, Destroyer		[CONT] For each of your other [Fleet Girl] Characters, this card gets +500 Power.		
+Murasame Kai, Between Spurts of Rain	All	KCS42-079	CH	KanColleEuro	B	R	KC/S42-079	1	1	2000	1	1	Fleet Girl, Destroyer		[AUTO] When you use this card's ASSIST, choose 1 of your Character in battle, during this turn, it gets +X Power, X is equals to the number of your [Destroyer] Characters x500.	[START] ASSIST 500 Level 1 [(1) Place this card from Hand into Waiting Room] (Choose 1 of your Characters being Front Attacked, during that turn, it gets +500 Power)	
+Harusame Kai, 5th Shiratsuyu-class Destroyer	All	KCS42-093	CH	KanColleEuro	B	C	KC/S42-093	1	1	6000	1	0	Fleet Girl, Destroyer		[CONT] For each Marker under this card, this card gets +1000 Power.	[AUTO]This ability can only be activated up to 1 time each turn. When you played [Drum Can(Transport Use)], you may place the top card of your Deck under this card as a Marker.	[AUTO] When this card's battle opponent becomes REVERSE, you may place the top card of your Deck under this card as a Marker.
+Isokaze, Savory Season	All	KCS42-016	CH	KanColleEuro	Y	U	KC/S42-016	2	1	6000	1	1	Fleet Girl, Destroyer		[CONT] SUPPORT All your [Destroyer] Characters in front of this card get +1500 Power.	[AUTO][(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the Cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.	
+Hatsuzuki, 4th Akizuki-class Destroyer	All	KCS42-024	CH	KanColleEuro	Y	C	KC/S42-024	2	1	8000	1	1	Fleet Girl, Destroyer		[AUTO] When this card attacks, if [Onee-san, Leave This to Me] is in the Climax slot, choose 1 of your other Characters, return it to Hand, during this turn, this card gets +3500 Power, at the beginning of your Encore Step, place this card into Stock.		
+Yuudachi Kai-Ni, A Moment in Mid-Summer	All	KCS42-096	CH	KanColleEuro	B	C	KC/S42-096	2	2	6500	2	1	Fleet Girl, Destroyer		[CONT]For each of your other [Destroyer] Characters, this card gets +1000 Power.	[AUTO]ENCORE [Place 1 Blue card from Hand into Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)	
+Fubuki Kai-Ni, 1st Fubuki-class Destroyer	All	KCS42-060	CH	KanColleEuro	R	RR	KC/S42-060	3	2	10000	2	1	Fleet Girl, Destroyer		[AUTO] When this card is placed on Stage from Hand, draw up to 1 Card, during this turn, this card gets +2000 Power.	[AUTO][(3) Place 2 cards from Hand into Waiting Room] When this card attacks, you may pay the Cost. If you did, deal X Damage to your opponent. X is equals to the number of your other [Destroyer] Characters. (Damage can be cancelled)	
 																	
-Drum Can(Transport Use)	All	KCS31-E095	EV	KanColle	B	U	KC/S31-E095	1	0			0			Look up to the top 4 cards of your Deck, choose up to 1 [Fleet Girl] Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room.		
+Drum Can(Transport Use)	All	KCS31-E095	EV	KanColle2nd	B	U	KC/S31-E095	1	0			0			Look up to the top 4 cards of your Deck, choose up to 1 [Fleet Girl] Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room.		
 																	
-Pu-pukupuu!	All	KCS31-E076	CX	KanColle	R	CC	KC/S31-E076					2			[AUTO] When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul.		
-Main Gun, Prepare for Anti-Air Combat!	All	KCS42-028	CX	KanColle	Y	CC	KC/S42-028					1F			[CONT] All your Characters get +1000 Power, +1 Soul.	(Flame): When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)	
-Onee-san, Leave This to Me	All	KCS42-029	CX	KanColle	Y	CC	KC/S42-029					2			[AUTO] When this card is placed into Climax slot from Hand, choose up to 1 Yellow card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul.		
+Pu-pukupuu!	All	KCS31-E076	CX	KanColle2nd	R	CC	KC/S31-E076					2			[AUTO] When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul.		
+Main Gun, Prepare for Anti-Air Combat!	All	KCS42-028	CX	KanColleEuro	Y	CC	KC/S42-028					1F			[CONT] All your Characters get +1000 Power, +1 Soul.	(Flame): When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)	
+Onee-san, Leave This to Me	All	KCS42-029	CX	KanColleEuro	Y	CC	KC/S42-029					2			[AUTO] When this card is placed into Climax slot from Hand, choose up to 1 Yellow card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul.		
 																	
 																	
 Naganami, 4th Yuugumo-class Destroyer	All	KCS25-012		KanColle			KC/S25-012										
 Inazuma, Blunderer	All	KCS25-061		KanColle			KC/S25-061										
-Harusame, 5th Shiratsuyu-class Destroyer	All	KCS31-089		KanColle			KC/S31-089										
-Kazagumo, 3rd Yuugumo-class Destroyer	All	KCS42-009		KanColle			KC/S42-009										
-Okinami, 14th Yuugumo-class Destroyer	All	KCS42-012		KanColle			KC/S42-012										
-Mutsuki Kai-Ni, 1st Mutsuki-class Destroyer	All	KCS42-068		KanColle			KC/S42-068										
-Kisaragi Kai-Ni, 2nd Mutsuki-class Destroyer	All	KCS42-069		KanColle			KC/S42-069										
-Yamagumo, 6th Asashio-class Destroyer	All	KCS42-080		KanColle			KC/S42-080										
+Harusame, 5th Shiratsuyu-class Destroyer	All	KCS31-089		KanColle2nd			KC/S31-089										
+Kazagumo, 3rd Yuugumo-class Destroyer	All	KCS42-009		KanColleEuro			KC/S42-009										
+Okinami, 14th Yuugumo-class Destroyer	All	KCS42-012		KanColleEuro			KC/S42-012										
+Mutsuki Kai-Ni, 1st Mutsuki-class Destroyer	All	KCS42-068		KanColleEuro			KC/S42-068										
+Kisaragi Kai-Ni, 2nd Mutsuki-class Destroyer	All	KCS42-069		KanColleEuro			KC/S42-069										
+Yamagumo, 6th Asashio-class Destroyer	All	KCS42-080		KanColleEuro			KC/S42-080										
 																	
 Shimakaze, Shimakaze-class Destroyer	All	KCS25-003		KanColle			KC/S25-003										
-Asagumo Kai, 5th Asashio-class Destroyer	All	KCS42-091		KanColle			KC/S42-091										
-Yamagumo Kai, 6th Asashio-class Destroyer	All	KCS42-092		KanColle			KC/S42-092										
+Asagumo Kai, 5th Asashio-class Destroyer	All	KCS42-091		KanColleEuro			KC/S42-091										
+Yamagumo Kai, 6th Asashio-class Destroyer	All	KCS42-092		KanColleEuro			KC/S42-092										
 																	
 Junyou, 2nd Hiyou-class Light Aircraft Carrier	All	KCS25-028		KanColle			KC/S25-028										
-Jintsuu Kai-Ni, 2nd Sendai-class Light Cruiser	All	KCS31-038		KanColle			KC/S31-038										
-Akatsuki Kai-Ni, 1st Akatsuki-class Destroyer	All	KCS42-041		KanColle			KC/S42-041										
+Jintsuu Kai-Ni, 2nd Sendai-class Light Cruiser	All	KCS31-038		KanColle2nd			KC/S31-038										
+Akatsuki Kai-Ni, 1st Akatsuki-class Destroyer	All	KCS42-041		KanColleEuro			KC/S42-041										
 																	
-Jintsuu, Going!	All	KCS31-059		KanColle			KC/S31-059										
+Jintsuu, Going!	All	KCS31-059		KanColle2nd			KC/S31-059										
 																	
 Maikaze, 18th Kagero-class Destroyer	All	KCS25-007		KanColle			KC/S25-007										
-Tokitsukaze, 10th Kagero-class Destroyer	All	KCS31-003		KanColle			KC/S31-003										
-Arashi, 16th Kagero-class Destroyer	All	KCS42-010		KanColle			KC/S42-010										
-Hagikaze, 17th Kagero-class Destroyer	All	KCS42-011		KanColle			KC/S42-011										
+Tokitsukaze, 10th Kagero-class Destroyer	All	KCS31-003		KanColle2nd			KC/S31-003										
+Arashi, 16th Kagero-class Destroyer	All	KCS42-010		KanColleEuro			KC/S42-010										
+Hagikaze, 17th Kagero-class Destroyer	All	KCS42-011		KanColleEuro			KC/S42-011										
 																	
-Ayanami Kai Ni, 1st Ayanami-class Destroyer	All	KCS31-035		KanColle			KC/S31-035										
-Murakumo Kai-Ni, 5th Fubuki-class Destroyer	All	KCS42-070		KanColle			KC/S42-070										
+Ayanami Kai Ni, 1st Ayanami-class Destroyer	All	KCS31-035		KanColle2nd			KC/S31-035										
+Murakumo Kai-Ni, 5th Fubuki-class Destroyer	All	KCS42-070		KanColleEuro			KC/S42-070										
 																	
 																	
-Illumination Rounds	All	KCS31-054		KanColle			KC/S31-054										
+Illumination Rounds	All	KCS31-054		KanColle2nd			KC/S31-054										
 																	
 It's Akatsuki's Turn, Watch Closely!	All	KCS25-079		KanColle			KC/S25-079										
-Ayanami Will Protect You!	All	KCS31-058		KanColle			KC/S31-058										
+Ayanami Will Protect You!	All	KCS31-058		KanColle2nd			KC/S31-058										
 																	
 																	
 																	
@@ -169,8 +169,8 @@ Demolition	All	FZS17-E026		Fate			FZ/S17-E026
 																	
 Release of Armament	All	FSS34-032		Fate			FS/S34-032										
 Anger Towards Evil	All	FSS34-034		Fate			FS/S34-034										
-After the Fierce Battle Nanoha	All	NRW58-044		Nanoha													
-Flower Viewing Teatime Nanoha	All	NRW58-037		Nanoha													
+After the Fierce Battle Nanoha	All	NRW58-044		NanohaRef													
+Flower Viewing Teatime Nanoha	All	NRW58-037		NanohaRef													
 "Kind and Serious"" Fate	All	NRW58-101		Nanoha													
 ""For the People"" Hayate	All	NRW58-103		Nanoha													
 ""Strike Cannon"" Nanoha	All	NRW58-032		Nanoha													
@@ -215,12 +215,38 @@ Piercing Emotions Simon and Nia	All	GL552-074		Gurren
 Arc-Gurren Lagann	All	GL552-076		Gurren													
 Evolved by the Power of the Spiral Boota	All	GL552-073		Gurren													
 																	
-Underway Replenishment	All	KCS42-072		KanColle													
+Underway Replenishment	All	KCS42-072		KanColleEuro													
 Fumidzuki, 7th Mutsuki-class Destroyer	All	KCS25-102		KanColle													
 Akatsuki, 1st Akatsuki-class Destroyer	All	KCS25-046		KanColle													
-Irako, Food Supply Ship 	All	KCS31-096		KanColle													
-Amatsukaze Kai, 9th Youen-class Destroyer	All	KCS31-005		KanColle													
-Z3, 3rd Z1-class Destroyer	All	KCS42-037		KanColle													
-Z1, 1st Z1-class Destroyer	All	KCS42-043		KanColle													
+Irako, Food Supply Ship 	All	KCS31-096		KanColle2nd													
+Amatsukaze Kai, 9th Youen-class Destroyer	All	KCS31-005		KanColle2nd													
+Z3, 3rd Z1-class Destroyer	All	KCS42-037		KanColleEuro													
+Z1, 1st Z1-class Destroyer	All	KCS42-043		KanColleEuro													
 As Fast as Island Winds	All	KCS25-034		KanColle													
 Shimakaze Kai, Shimakaze-class Destroyer	All	KCS25-015		KanColle													
+																	
+Kaerubeki Basho Fate	All	NDW67-001		NanoDet													
+Kekkai Boueisen Fate	All	NDW67-002		NanoDet													
+Bunny Girl Fate	All	NDW67-003		NanoDet													
+Tatakai no Yukue Fate	All	NDW67-005		NanoDet													
+Kuusen Madoushi Fate	All	NDW67-008		NanoDet													
+Tayoreru Suketto Fate	All	NDW67-010		NanoDet													
+Tanomoshii Mikata Fate	All	NDW67-015		NanoDet													
+Mamorubeki Taisetsu na Mono Nanoha	All	NDW67-021		NanoDet													
+Keikoku no Yobikake Nanoha	All	NDW67-025		NanoDet													
+																	
+Kageroukata Kuchikukan 1bankan Kagerou Kai Ni	All	KCS67-001		KanColle5th													
+Akidzukikata Kuchikukan 3bankan Suzutsuki	All	KCS67-015		KanColle5th													
+Tashugento-kyuu Kuchikukan 1bankan Tashugento	All	KCS67-028		KanColle5th													
+Ayanamikata Kuchikukan 5bankan Amagiri	All	KCS67-037		KanColle5th													
+Kamikazekata Kuchikukan 1bankan Kamikaze	All	KCS67-058		KanColle5th													
+Mutsukikata Kuchikukan 7bankan Fumudzuki Kai Ni	All	KCS67-060		KanColle5th													
+Saa, Gassenyoui Yo!	All	KCS67-071		KanColle5th													
+J-kyuu Kuchikukan 1bankan Jervis	All	KCS67-086		KanColle5th													
+Shiratsuyukata Kuchikukan 3bankan Murasame Kai Ni 	All	KCS67-097		KanColle5th													
+Asashiokata Kuchikukan 4bankan Arashio Kai Ni	All	KCS67-094		KanColle5th													
+Shiratsuyukata Kuchikukan 8bankan Yamakaze	All	KCS67-093		KanColle5th													
+Shiratsuyukata Kuchikukan 1bankan Shiratsuyu Kai Ni	All	KCS67-091		KanColle5th													
+Kono Kaiikikara Deteike!	All	KCS67-105		KanColle5th													
+Asashiokata Kuchikukan 1bankan Asashio Kai Nichou	All	KCS67-084		KanColle5th													
+Asashiokata Kuchikukan 1bankan Asashio Kai Ni	All	KCS67-085		KanColle5th													
