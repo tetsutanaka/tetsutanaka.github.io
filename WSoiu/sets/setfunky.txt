@@ -250,3 +250,5 @@ Shiratsuyukata Kuchikukan 1bankan Shiratsuyu Kai Ni	All	KCS67-091		KanColle5th
 Kono Kaiikikara Deteike!	All	KCS67-105		KanColle5th													
 Asashiokata Kuchikukan 1bankan Asashio Kai Nichou	All	KCS67-084		KanColle5th													
 Asashiokata Kuchikukan 1bankan Asashio Kai Ni	All	KCS67-085		KanColle5th													
+Kageroukata Kuchikukan 3bankan Kuroshio Kai Ni	All	KCS67-019		KanColle5th													
+Ayanamikata Kuchikukan 6bankan Sagiri	All	KCS67-031		KanColle5th													
