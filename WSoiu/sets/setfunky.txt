@@ -92,22 +92,22 @@ Eris in Swimsuit	All	KSW55-081 		KonoSuba			KS/W55-081
 """Salvation of the Soul"" Aqua"	All	KSW55-082 		KonoSuba			KS/W55-082 										
 """Power of Magic Is Part of Luck"" Aqua"	All	KSW55-084 		KonoSuba			KS/W55-084 										
 In the Name of the Goddess	All	KSW55-098 		KonoSuba			KS/W55-098 										
-The Happiest Divine Book Reinforce	All	N2W32-088		Nanoha			N2/W32-088	2	1	8000	1						
-Swimsuit Fate	All	N1W32-102	C	Nanoha	Y	C	N1/32-102C	0	0	2000	1						
-Until Another Day Nanoha	All	N1W32-P01		Nanoha	R	PR	N1/W32-P01								When your other ????????????? attacks, if this card is in the Front Row, choose 1 of your opponent's Character with Level 0 or below in the Front Row, you may place it into Waiting Room.		
-Until Another Day Fate	All	N1W32-P02		Nanoha	Y	PR	N1/W32-P02								When this card is placed on Stage from Hand, during that turn, this Character gets +1500 Power.		
-Familiar Arf	All	NSW04-T01		Nanoha			NS/W04-T01										
-Declaration of Victory	All	N2W25-005		Nanoha	Y	R	N2/W25-005										
-New Power Fate	All	N2W25-019		Nanoha	Y	C	N2/W25-019										
-Sonic Drive Fate	All	N2W25-006		Nanoha	Y	R	N2/W25-006										
-Grateful Feeling Alf	All	N2W25-013		Nanoha	Y	U	N2/W25-013										
-Plasma Zanber Breaker Fate	All	N2W32-106		Nanoha	Y	RR	N2/32-106										
-Lightning Returns Fate	All	N2W32-028		Nanoha	Y	RR	N2/W32-028										
-Farewell To The Ideal	All	NAW12-024		Nanoha	Y	CC	N2/W12024										
-Lightning Fate	All	NAW12-002		Nanoha	Y	RR	N2/W12-002										
-Fate With Bardiche Assault	All	NAW12-007		Nanoha	Y	R	NA/212-007										
-Raikou Issen	All	NAW12-023		Nanoha	Y	SR	NA/W12-023										
-Kind Mother Precia	All	NAW12-018		Nanoha	Y	C	NA/W12-018										
+The Happiest Divine Book Reinforce	All	N2W32-088	Reinforce	Nanoha			N2/W32-088	2	1	8000	1						
+Swimsuit Fate	All	N1W32-102	Fate	Nanoha	Y	C	N1/32-102C	0	0	2000	1						
+Until Another Day Nanoha	All	N1W32-P01	Nanoha	Nanoha	R	PR	N1/W32-P01								When your other ????????????? attacks, if this card is in the Front Row, choose 1 of your opponent's Character with Level 0 or below in the Front Row, you may place it into Waiting Room.		
+Until Another Day Fate	All	N1W32-P02	Fate	Nanoha	Y	PR	N1/W32-P02								When this card is placed on Stage from Hand, during that turn, this Character gets +1500 Power.		
+Familiar Arf	All	NSW04-T01	Arf	Nanoha			NS/W04-T01										
+Declaration of Victory	All	N2W25-005	Climax	Nanoha	Y	R	N2/W25-005										
+New Power Fate	All	N2W25-019	Fate	Nanoha	Y	C	N2/W25-019										
+Sonic Drive Fate	All	N2W25-006	Fate	Nanoha	Y	R	N2/W25-006										
+Grateful Feeling Alf	All	N2W25-013	Alf	Nanoha	Y	U	N2/W25-013										
+Plasma Zanber Breaker Fate	All	N2W32-106	Fate	Nanoha	Y	RR	N2/32-106										
+Lightning Returns Fate	All	N2W32-028	Fate	Nanoha	Y	RR	N2/W32-028										
+Farewell To The Ideal	All	NAW12-024	Climax	Nanoha	Y	CC	N2/W12024										
+Lightning Fate	All	NAW12-002	Fate	Nanoha	Y	RR	N2/W12-002										
+Fate With Bardiche Assault	All	NAW12-007	Fate	Nanoha	Y	R	NA/212-007										
+Raikou Issen	All	NAW12-023	Climax	Nanoha	Y	SR	NA/W12-023										
+Kind Mother Precia	All	NAW12-018	Precia	Nanoha	Y	C	NA/W12-018										
 																	
 																	
 																	
@@ -149,28 +149,28 @@ Time for Just Us Two	All	N2W32-117R		Nanoha			N2/W32-117R
 																	
 																	
 																	
-Saber, Knight's Personality	All	FSS34-001		Fate			FS/S34-001										
-"""Heroic Spirit"" Saber"	All	FSS34-005		Fate			FS/S34-005										
-Saber, Dignified Air	All	FSS34-019		Fate			FS/S34-019										
-Holy Grail War Entry, Saber	All	FSS34-TE16		Fate			FS/S34-TE16										
-"""Pact Complete"" Saber"	All	FSS36-005		Fate			FS/S36-005										
+Saber, Knight's Personality	All	FSS34-001	Saber	Fate			FS/S34-001										
+"""Heroic Spirit"" Saber"	All	FSS34-005	Saber	Fate			FS/S34-005										
+Saber, Dignified Air	All	FSS34-019	Saber	Fate			FS/S34-019										
+Holy Grail War Entry, Saber	All	FSS34-TE16	Saber	Fate			FS/S34-TE16										
+"""Pact Complete"" Saber"	All	FSS36-005	Saber	Fate			FS/S36-005										
 																	
-Saber, Prepared to Fight Together	All	FSS34-006		Fate			FS/S34-006										
-Saber, Heading to Rescue	All	FSS34-014		Fate			FS/S34-014										
-Shirou, Friendly to Others	All	FSS34-017		Fate			FS/S34-017										
+Saber, Prepared to Fight Together	All	FSS34-006	Saber	Fate			FS/S34-006										
+Saber, Heading to Rescue	All	FSS34-014	Saber	Fate			FS/S34-014										
+Shirou, Friendly to Others	All	FSS34-017	Shirou	Fate			FS/S34-017										
 																	
-Saber, Fight with Souichirou	All	FSS34-008		Fate			FS/S34-008										
-"""Neat Appearance"" Saber"	All	FS036-023		Fate			FS/S36-023										
+Saber, Fight with Souichirou	All	FSS34-008	Saber	Fate			FS/S34-008										
+"""Neat Appearance"" Saber"	All	FS036-023	Saber	Fate			FS/S36-023										
 																	
-Saber, Knight's Oath	All	FSS34-003		Fate			FS/S34-003										
-King of Ideals, Saber	All	FZS17-E002		Fate			FZ/S17-E002										
+Saber, Knight's Oath	All	FSS34-003	Saber	Fate			FS/S34-003										
+King of Ideals, Saber	All	FZS17-E002	Saber	Fate			FZ/S17-E002										
 																	
-Demolition	All	FZS17-E026		Fate			FZ/S17-E026										
+Demolition	All	FZS17-E026	Event	Fate			FZ/S17-E026										
 																	
-Release of Armament	All	FSS34-032		Fate			FS/S34-032										
-Anger Towards Evil	All	FSS34-034		Fate			FS/S34-034										
-After the Fierce Battle Nanoha	All	NRW58-044		NanohaRef													
-Flower Viewing Teatime Nanoha	All	NRW58-037		NanohaRef													
+Release of Armament	All	FSS34-032	Climax	Fate			FS/S34-032										
+Anger Towards Evil	All	FSS34-034	Climax	Fate			FS/S34-034										
+After the Fierce Battle Nanoha	All	NRW58-044	Nanoha	NanoRef													
+Flower Viewing Teatime Nanoha	All	NRW58-037	Nanoha	NanoRef													
 "Kind and Serious"" Fate	All	NRW58-101		Nanoha													
 ""For the People"" Hayate	All	NRW58-103		Nanoha													
 ""Strike Cannon"" Nanoha	All	NRW58-032		Nanoha													
@@ -215,40 +215,48 @@ Piercing Emotions Simon and Nia	All	GL552-074		Gurren
 Arc-Gurren Lagann	All	GL552-076		Gurren													
 Evolved by the Power of the Spiral Boota	All	GL552-073		Gurren													
 																	
-Underway Replenishment	All	KCS42-072		KanColleEuro													
-Fumidzuki, 7th Mutsuki-class Destroyer	All	KCS25-102		KanColle													
-Akatsuki, 1st Akatsuki-class Destroyer	All	KCS25-046		KanColle													
-Irako, Food Supply Ship 	All	KCS31-096		KanColle2nd													
-Amatsukaze Kai, 9th Youen-class Destroyer	All	KCS31-005		KanColle2nd													
-Z3, 3rd Z1-class Destroyer	All	KCS42-037		KanColleEuro													
-Z1, 1st Z1-class Destroyer	All	KCS42-043		KanColleEuro													
-As Fast as Island Winds	All	KCS25-034		KanColle													
-Shimakaze Kai, Shimakaze-class Destroyer	All	KCS25-015		KanColle													
+Underway Replenishment	All	KCS42-072	Event	KanColleEuro													
+Fumidzuki, 7th Mutsuki-class Destroyer	All	KCS25-102	Fumidzuki	KanColle													
+Akatsuki, 1st Akatsuki-class Destroyer	All	KCS25-046	Akatsuki	KanColle													
+Irako, Food Supply Ship 	All	KCS31-096	Irako	KanColle2nd													
+Amatsukaze Kai, 9th Youen-class Destroyer	All	KCS31-005	Amatsukaze	KanColle2nd													
+Z3, 3rd Z1-class Destroyer	All	KCS42-037	Z3	KanColleEuro													
+Z1, 1st Z1-class Destroyer	All	KCS42-043	Z1	KanColleEuro													
+As Fast as Island Winds	All	KCS25-034	Climax	KanColle													
+Shimakaze Kai, Shimakaze-class Destroyer	All	KCS25-015	Shimakaze	KanColle													
 																	
-Kaerubeki Basho Fate	All	NDW67-001		NanoDet													
-Kekkai Boueisen Fate	All	NDW67-002		NanoDet													
-Bunny Girl Fate	All	NDW67-003		NanoDet													
-Tatakai no Yukue Fate	All	NDW67-005		NanoDet													
-Kuusen Madoushi Fate	All	NDW67-008		NanoDet													
-Tayoreru Suketto Fate	All	NDW67-010		NanoDet													
-Tanomoshii Mikata Fate	All	NDW67-015		NanoDet													
-Mamorubeki Taisetsu na Mono Nanoha	All	NDW67-021		NanoDet													
-Keikoku no Yobikake Nanoha	All	NDW67-025		NanoDet													
+Kaerubeki Basho Fate	All	NDW67-001	Fate	NanoDet													
+Kekkai Boueisen Fate	All	NDW67-002	Fate	NanoDet													
+Bunny Girl Fate	All	NDW67-003	Fate	NanoDet													
+Tatakai no Yukue Fate	All	NDW67-005	Fate	NanoDet													
+Kuusen Madoushi Fate	All	NDW67-008	Fate	NanoDet													
+Tayoreru Suketto Fate	All	NDW67-010	Fate	NanoDet													
+Tanomoshii Mikata Fate	All	NDW67-015	Fate	NanoDet													
+Mamorubeki Taisetsu na Mono Nanoha	All	NDW67-021	Nanoha	NanoDet													
+Keikoku no Yobikake Nanoha	All	NDW67-025	Nanoha	NanoDet													
 																	
-Kageroukata Kuchikukan 1bankan Kagerou Kai Ni	All	KCS67-001		KanColle5th													
-Akidzukikata Kuchikukan 3bankan Suzutsuki	All	KCS67-015		KanColle5th													
-Tashugento-kyuu Kuchikukan 1bankan Tashugento	All	KCS67-028		KanColle5th													
-Ayanamikata Kuchikukan 5bankan Amagiri	All	KCS67-037		KanColle5th													
-Kamikazekata Kuchikukan 1bankan Kamikaze	All	KCS67-058		KanColle5th													
-Mutsukikata Kuchikukan 7bankan Fumudzuki Kai Ni	All	KCS67-060		KanColle5th													
-Saa, Gassenyoui Yo!	All	KCS67-071		KanColle5th													
-J-kyuu Kuchikukan 1bankan Jervis	All	KCS67-086		KanColle5th													
-Shiratsuyukata Kuchikukan 3bankan Murasame Kai Ni 	All	KCS67-097		KanColle5th													
-Asashiokata Kuchikukan 4bankan Arashio Kai Ni	All	KCS67-094		KanColle5th													
-Shiratsuyukata Kuchikukan 8bankan Yamakaze	All	KCS67-093		KanColle5th													
-Shiratsuyukata Kuchikukan 1bankan Shiratsuyu Kai Ni	All	KCS67-091		KanColle5th													
-Kono Kaiikikara Deteike!	All	KCS67-105		KanColle5th													
-Asashiokata Kuchikukan 1bankan Asashio Kai Nichou	All	KCS67-084		KanColle5th													
-Asashiokata Kuchikukan 1bankan Asashio Kai Ni	All	KCS67-085		KanColle5th													
-Kageroukata Kuchikukan 3bankan Kuroshio Kai Ni	All	KCS67-019		KanColle5th													
-Ayanamikata Kuchikukan 6bankan Sagiri	All	KCS67-031		KanColle5th													
+Kageroukata Kuchikukan 1bankan Kagerou Kai Ni	All	KCS67-001	Kagerou	KanColle5th													
+Akidzukikata Kuchikukan 3bankan Suzutsuki	All	KCS67-015	Suzutsuki	KanColle5th													
+Tashugento-kyuu Kuchikukan 1bankan Tashugento	All	KCS67-028	Tashugento	KanColle5th													
+Ayanamikata Kuchikukan 5bankan Amagiri	All	KCS67-037	Amagiri	KanColle5th													
+Kamikazekata Kuchikukan 1bankan Kamikaze	All	KCS67-058	Kamikaze	KanColle5th													
+Mutsukikata Kuchikukan 7bankan Fumudzuki Kai Ni	All	KCS67-060	Fumudzuki	KanColle5th													
+Saa, Gassenyoui Yo!	All	KCS67-071	Climax	KanColle5th													
+J-kyuu Kuchikukan 1bankan Jervis	All	KCS67-086	Jervis	KanColle5th													
+Shiratsuyukata Kuchikukan 3bankan Murasame Kai Ni 	All	KCS67-097	Murasame	KanColle5th													
+Asashiokata Kuchikukan 4bankan Arashio Kai Ni	All	KCS67-094	Arashio	KanColle5th													
+Shiratsuyukata Kuchikukan 8bankan Yamakaze	All	KCS67-093	Yamakaze	KanColle5th													
+Shiratsuyukata Kuchikukan 1bankan Shiratsuyu Kai Ni	All	KCS67-091	Shiratsuyu	KanColle5th													
+Kono Kaiikikara Deteike!	All	KCS67-105	Climax	KanColle5th													
+Asashiokata Kuchikukan 1bankan Asashio Kai Nichou	All	KCS67-084	Asashio	KanColle5th													
+Asashiokata Kuchikukan 1bankan Asashio Kai Ni	All	KCS67-085	Asashio	KanColle5th													
+Kageroukata Kuchikukan 3bankan Kuroshio Kai Ni	All	KCS67-019	Kuroshio	KanColle5th													
+Ayanamikata Kuchikukan 6bankan Sagiri	All	KCS67-031	Sagiri	KanColle5th													
+																	
+Shinzou Kousakukan Akashi Kai	All	KCS31-081	Akashi	KanColle2nd													
+Tenryuukata Keijun 1bankan Tenryuu Kai	All	KCS25-086	Tenryuu	KanColle													
+Tenryuukata Keijun 2bankan Tatsuta	All	KCS25-093	Tatsuta	KanColle													
+Soukonakucchana, Batsubyou Da!	All	KCS25-124	Climax	KanColle													
+Casablanca-kyuu Keikuubo 19bankan Gambier Bay	All	KCS67-056	Gambier Bay	KanColle5th													
+Zara-kyuu Juujun 1bankan Zara due	All	KCS67-073	Zara	KanColle5th													
+Asashiokata Kuchikukan 9bankan Arare Kai Ni	All	KCS67-096	Arare	KanColle5th													

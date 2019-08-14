@@ -30,18 +30,18 @@ Book Of Darkness Knight Vita	All	NAW12-056_WT	CH	Nanoha	R	R	NA/W12-056	2	1	7000	
 Chibikko Vita	All	NAW12-065_WT		Nanoha			NA/W12-065_WT										
 Hayate Yagami	All	NSW04-088_WT		Nanoha			NS/W04-088_WT										
 																	
-Vita, Encounter on the Rooftop	All	N2W32-064_WT		Nanoha			N2/W32-064										
+Vita, Encounter on the Rooftop	All	N2W32-064_WT		NanoRef			N2/W32-064										
 																	
 																	
-Reinforce II, Spring Winds	All	N2W25-069 		Nanoha			N2/W25-069 										
-Signum, Schlangebeissen	All	N2W25-016 		Nanoha			N2/W25-016 										
-Fate & Nanoha, Time Wished For	All	N2W32-108 		Nanoha			N2/W32-108 										
+Reinforce II, Spring Winds	All	N2W25-069 		NanoRef			N2/W25-069 										
+Signum, Schlangebeissen	All	N2W25-016 		NanoRef			N2/W25-016 										
+Fate & Nanoha, Time Wished For	All	N2W32-108 		NanoRef			N2/W32-108 										
 																	
-Bathtime Vita	All	NRW58-029		Nanoha			NR/W58-029										
-Time Space Administration Bureau Vita	All	NRW58-034		Nanoha			NR/W58-034										
-Examining the Story Vita	All	NRW58-036		Nanoha			NR/W58-036										
-Summer Leisure Vita	All	NRW58-041		Nanoha			NRW58-041										
-Protecting the City	All	NRW58-052		Nanoha			NR/W58-052										
+Bathtime Vita	All	NRW58-029		NanoRef			NR/W58-029										
+Time Space Administration Bureau Vita	All	NRW58-034		NanoRef			NR/W58-034										
+Examining the Story Vita	All	NRW58-036		NanoRef			NR/W58-036										
+Summer Leisure Vita	All	NRW58-041		NanoRef			NRW58-041										
+Protecting the City	All	NRW58-052		NanoRef			NR/W58-052										
 "KnightÅfs Armor Improved"" Hayate	All	NRW58-033		Nanoha													
 ""A New Story"" Hayate	All	NRW58-062		Nanoha													
 ""Fusion Knight"" Reinforce II	All	NRW58-076		Nanoha													
@@ -68,47 +68,72 @@ Lightning Magic Levi	All	NRW58-057		Nanoha
 -THE GEARS OF DESTINY-	All	NAW12-111		Nanoha													
 "																	
 																	
-Beginning of the End	All	NRW58-095		Nanoha													
-Eltrian Girl Kyrie	All	NRW58-094		Nanoha													
-Eltrian Girl Iris	All	NRW58-093		Nanoha													
-Childhood Kyrie	All	NRW58-081		Nanoha													
-Variant Fencer Kyrie	All	NRW58-078		Nanoha													
-Anger and Sorrow Kyrie	All	NRW58-071		Nanoha													
-Day of Journey Kyrie	All	NRW58-069		Nanoha													
-Awakened from the Relic Board Iris	All	NRW58-067		Nanoha													
-Opposing Sisters Kyrie	All	NRW58-064		Nanoha													
-Each Persons Will Kyrie	All	NRW58-063		Nanoha													
-Artificial Intelligence Iris	All	NRW58-061		Nanoha													
-For her Homeland Kyrie	All	NRW58-060		Nanoha													
-Formula Suit Type-K Kyrie	All	NRW58-058		Nanoha													
-Piercing Will Kyrie	All	NRW58-054		Nanoha													
-Runaway Savior Amita	All	NRW58-046		Nanoha													
-Childhood Amita	All	NRW58-043		Nanoha													
-Eltrian Girl Amita	All	NRW58-040		Nanoha													
-Saving Her Sister Amita	All	NRW58-039		Nanoha													
-Close Sisters Amita and Kyrie	All	NRW58-038		Nanoha													
-Passing of Powers Amita	All	NRW58-035		Nanoha													
-For the Family Amita	All	NRW58-033A		Nanoha													
-Formula Suit Type-A Amita	All	NRW58-031		Nanoha													
-Opposing Sisters Amita	All	NRW58-028		Nanoha													
-Variant Zapper Amita	All	NRW58-026		Nanoha													
-Saved by the Magicians	All	NRW58-050		Nanoha													
-Plotting to Save the World	All	NRW58-097		Nanoha													
-Cruel Words	All	NRW58-099		Nanoha													
+Beginning of the End	All	NRW58-095	Event	NanoRef													
+Eltrian Girl Kyrie	All	NRW58-094	Kyrie	NanoRef													
+Eltrian Girl Iris	All	NRW58-093	Iris	NanoRef													
+Childhood Kyrie	All	NRW58-081	Kirie	NanoRef													
+Variant Fencer Kyrie	All	NRW58-078	Kirie	NanoRef													
+Anger and Sorrow Kyrie	All	NRW58-071	Kirie	NanoRef													
+Day of Journey Kyrie	All	NRW58-069	Kirie	NanoRef													
+Awakened from the Relic Board Iris	All	NRW58-067	Iris	NanoRef													
+Opposing Sisters Kyrie	All	NRW58-064	Kirie	NanoRef													
+Each Persons Will Kyrie	All	NRW58-063	Kirie	NanoRef													
+Artificial Intelligence Iris	All	NRW58-061	Iris	NanoRef													
+For her Homeland Kyrie	All	NRW58-060	Kirie	NanoRef													
+Formula Suit Type-K Kyrie	All	NRW58-058	Kirie	NanoRef													
+Piercing Will Kyrie	All	NRW58-054	Kirie	NanoRef													
+Runaway Savior Amita	All	NRW58-046	Amita	NanoRef													
+Childhood Amita	All	NRW58-043	Amita	NanoRef													
+Eltrian Girl Amita	All	NRW58-040	Amita	NanoRef													
+Saving Her Sister Amita	All	NRW58-039	Amita	NanoRef													
+Close Sisters Amita and Kyrie	All	NRW58-038	Amita-Kirie	NanoRef													
+Passing of Powers Amita	All	NRW58-035	Amita	NanoRef													
+For the Family Amita	All	NRW58-033A	Amita	NanoRef													
+Formula Suit Type-A Amita	All	NRW58-031	Amita	NanoRef													
+Opposing Sisters Amita	All	NRW58-028	Amita	NanoRef													
+Variant Zapper Amita	All	NRW58-026	Amita	NanoRef													
+Saved by the Magicians	All	NRW58-050	Climax	NanoRef													
+Plotting to Save the World	All	NRW58-097	Climax	NanoRef													
+Cruel Words	All	NRW58-099	Climax	NanoRef													
 																	
-Kekkaiboueisen Shamal	All	NDW67-063		NanoDet													
-Shujin e no Ongaeshi Stern	All	NDW67-093		NanoDet													
-Wareraga Konshin no Ongaeshi	All	NDW67-095		NanoDet													
-Sangeki no Kioku	All	NDW67-099		NanoDet													
-Reisei na Handan Stern	All	NDW67-089		NanoDet													
-Heion na Nichijou Dearche	All	NDW67-062		NanoDet													
-Wasureenu Dekigoto Yuri	All	NDW67-064		NanoDet													
-Sunao de Massugu Levi	All	NDW67-067		NanoDet													
-Owakare no Aisatsu Stern	All	NDW67-070		NanoDet													
-Omoi to Tomoni Dearche	All	NDW67-074		NanoDet													
-Heion na Nichijou Stern	All	NDW67-051		NanoDet													
-Eltria no Neko Stern	All	NDW67-052		NanoDet													
-Eltria no Neko Levi	All	NDW67-048		NanoDet													
-Ashita wo Kirihiraku Ichigeki Dearche	All	NDW67-046		NanoDet													
-Heion na Nichijou Levi	All	NDW67-053		NanoDet													
-Tatakai no Yukue Dearche	All	NDW67-057		NanoDet													
+Kekkaiboueisen Shamal	All	NDW67-063	Shamal	NanoDet													
+Shujin e no Ongaeshi Stern	All	NDW67-093	Stern	NanoDet													
+Wareraga Konshin no Ongaeshi	All	NDW67-095	Climax	NanoDet													
+Sangeki no Kioku	All	NDW67-099	Climax	NanoDet													
+Reisei na Handan Stern	All	NDW67-089	Stern	NanoDet													
+Heion na Nichijou Dearche	All	NDW67-062	Dearche	NanoDet													
+Wasureenu Dekigoto Yuri	All	NDW67-064	Yuri	NanoDet													
+Sunao de Massugu Levi	All	NDW67-067	Levi	NanoDet													
+Owakare no Aisatsu Stern	All	NDW67-070	Stern	NanoDet													
+Omoi to Tomoni Dearche	All	NDW67-074	Dearche	NanoDet													
+Heion na Nichijou Stern	All	NDW67-051	Stern	NanoDet													
+Eltria no Neko Stern	All	NDW67-052	Stern	NanoDet													
+Eltria no Neko Levi	All	NDW67-048	Levi	NanoDet													
+Ashita wo Kirihiraku Ichigeki Dearche	All	NDW67-046	Dearche	NanoDet													
+Heion na Nichijou Levi	All	NDW67-053	Levi	NanoDet													
+Tatakai no Yukue Dearche	All	NDW67-057	Dearche	NanoDet													
+																	
+																	
+Phil no Kirifuda	All	NDW67-100	Phil	NanoDet													
+Eltria no Saisei	All	NDW67-098	Climax	NanoDet													
+Excavator	All	NDW67-088	Misc	NanoDet													
+Ryousangata Iris	All	NDW67-083	Iris	NanoDet													
+Yoyuu to Jishin Phil	All	NDW67-077	Phil	NanoDet													
+Yuganda Risou Phil	All	NDW67-075	Phil	NanoDet													
+Eiseihougata Iris	All	NDW67-073	Iris	NanoDet													
+Hagemashi no Kotoba Kirie	All	NDW67-072	Kirie	NanoDet													
+Reikoku na Fukushuu Iris	All	NDW67-071	Iris	NanoDet													
+Youshouki no Iris	All	NDW67-065	Iris	NanoDet													
+Heion na Nichijou Yuri	All	NDW67-061	Yuri	NanoDet													
+Himerareta Kako Yuri	All	NDW67-059	Yuri	NanoDet													
+Heion na Nichijou Iris	All	NDW67-050	Iris	NanoDet													
+Takaramono no Jikan Kirie	All	NDW67-047	Kirie	NanoDet													
+Variant Zapper	All	NDW67-039	Event	NanoDet													
+Kaijou no Koubou Amita	All	NDW67-032	Amita	NanoDet													
+Shubousha tono Taiji Amita	All	NDW67-031	Amita	NanoDet													
+Sorezore no Tatakai Amita	All	NDW67-029	Amita	NanoDet													
+Tatakai no Yukue Amita	All	NDW67-019	Amita	NanoDet													
+Furishiboru Chikara Amita	All	NDW67-018	Amita	NanoDet													
+Ayatsurareta Ishi Yuri	All	NDW67-094	Yuri	NanoDet													
+																	
+Unwavering Trust Levi	All	NRW58-084	Levi	NanoRef													
