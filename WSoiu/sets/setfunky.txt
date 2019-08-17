@@ -260,3 +260,12 @@ Soukonakucchana, Batsubyou Da!	All	KCS25-124	Climax	KanColle
 Casablanca-kyuu Keikuubo 19bankan Gambier Bay	All	KCS67-056	Gambier Bay	KanColle5th													
 Zara-kyuu Juujun 1bankan Zara due	All	KCS67-073	Zara	KanColle5th													
 Asashiokata Kuchikukan 9bankan Arare Kai Ni	All	KCS67-096	Arare	KanColle5th													
+																	
+Kongoukata Senkan 1bankan Kongou Kai Ni	All	KCS25-080	Kongou	KanColle													
+Uchimasu! Fire!	All	KCS25-123	Climax	KanColle													
+Kongoukata Senkan 1bankan Kongou	All	KCS25-082	Kongou	KanColle													
+Kongoukata Senkan 3bankan Haruna	All	KCS25-084	Haruna	KanColle													
+Tea Time Kongou	All	KCS31-061	Kongou	KanColle2nd													
+Kousoku Shuufukuzai	All	KCS31-074	Event	KanColle2nd													
+Furutakakata Jyuujun 1bankan Furutaka Kai Ni	All	KCS42-044	Furutaka	KanColleEuro													
+Maestrale-kyuu Kuchikukan Maestrale	All	KCS67-T09	Maestrale	KanColle5th													
