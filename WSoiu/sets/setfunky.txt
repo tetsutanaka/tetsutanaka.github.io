@@ -269,3 +269,16 @@ Tea Time Kongou	All	KCS31-061	Kongou	KanColle2nd
 Kousoku Shuufukuzai	All	KCS31-074	Event	KanColle2nd													
 Furutakakata Jyuujun 1bankan Furutaka Kai Ni	All	KCS42-044	Furutaka	KanColleEuro													
 Maestrale-kyuu Kuchikukan Maestrale	All	KCS67-T09	Maestrale	KanColle5th													
+																	
+																	
+Takeki Houkou Gojira Earth		GZLSE33-12	Gojira														
+Shinkou Kaishi Gojira Earth		GZLSE33-13	Gojira														
+Hiiro ni Somaru Gojira Earth		GZLSE33-14	Gojira														
+Chikyuu no Shihaisha Gojira Earth		GZLSE33-17	Gojira														
+Worm-gata Selvam		GZLSE33-18	Selvam														
+Nessen		GZLSE33-19	Climax														
+Hiryuu-gata Seibutsu Selvam		GZLSS4-T01	Selvam														
+TotsuzenHenni Selvam		GZLSS4-T02	Selvam														
+YaseiDoubutsu Selvam		GZLSS4-T03	Selvam														
+Hakai no Ou Gojira		GZLSS4-T04	Gojira														
+		GZLSS4-T05	Climax														
