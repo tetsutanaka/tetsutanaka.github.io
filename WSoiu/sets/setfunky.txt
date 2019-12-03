@@ -187,11 +187,11 @@ A New Power Nanoha	All	NRW58-023		Nanoha
 A New Story Nanoha	All	NRW58-027		Nanoha													
 ""As Much as She Could"" Nanoha	All	NRW58-102		Nanoha													
 Moonlit Flight Nanoha	All	NRW58-030		Nanoha													
-""In the Middle of BattleÔøΩh Fate	All	NRW58-009		Nanoha													
+""In the Middle of BattleÅh Fate	All	NRW58-009		Nanoha													
 A New Story Fate	All	NRW58-005		Nanoha													
 ""Hornet Javelin"" Fate	All	NRW58-002		Nanoha													
 ""Blaze Form II"" Fate	All	NRW58-001		Nanoha													
-Each OtherÔøΩfs Will Fate	All	NRW58-008		Nanoha													
+Each OtherÅfs Will Fate	All	NRW58-008		Nanoha													
 Determined Eyes Fate	All	NRW58-003		Nanoha
 "																	
 																	
@@ -271,14 +271,14 @@ Furutakakata Jyuujun 1bankan Furutaka Kai Ni	All	KCS42-044	Furutaka	KanColleEuro
 Maestrale-kyuu Kuchikukan Maestrale	All	KCS67-T09	Maestrale	KanColle5th													
 																	
 																	
-Takeki Houkou Gojira Earth		GZLSE33-12	Gojira														
-Shinkou Kaishi Gojira Earth		GZLSE33-13	Gojira														
-Hiiro ni Somaru Gojira Earth		GZLSE33-14	Gojira														
-Chikyuu no Shihaisha Gojira Earth		GZLSE33-17	Gojira														
-Worm-gata Selvam		GZLSE33-18	Selvam														
-Nessen		GZLSE33-19	Climax														
-Hiryuu-gata Seibutsu Selvam		GZLSS4-T01	Selvam														
-TotsuzenHenni Selvam		GZLSS4-T02	Selvam														
-YaseiDoubutsu Selvam		GZLSS4-T03	Selvam														
-Hakai no Ou Gojira		GZLSS4-T04	Gojira														
-Hibiku Houkou		GZLSS4-T05	Climax														
+Takeki Houkou Gojira Earth	All	GZLSE33-12	Gojira														
+Shinkou Kaishi Gojira Earth	All	GZLSE33-13	Gojira														
+Hiiro ni Somaru Gojira Earth	All	GZLSE33-14	Gojira														
+Chikyuu no Shihaisha Gojira Earth	All	GZLSE33-17	Gojira														
+Worm-gata Selvam	All	GZLSE33-18	Selvam														
+Nessen	All	GZLSE33-19	Climax														
+Hiryuu-gata Seibutsu Selvam	All	GZLSS4-T01	Selvam														
+TotsuzenHenni Selvam	All	GZLSS4-T02	Selvam														
+YaseiDoubutsu Selvam	All	GZLSS4-T03	Selvam														
+Hakai no Ou Gojira	All	GZLSS4-T04	Gojira														
+Hibiku Houkou	All	GZLSS4-T05	Climax														
