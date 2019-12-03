@@ -187,11 +187,11 @@ A New Power Nanoha	All	NRW58-023		Nanoha
 A New Story Nanoha	All	NRW58-027		Nanoha													
 ""As Much as She Could"" Nanoha	All	NRW58-102		Nanoha													
 Moonlit Flight Nanoha	All	NRW58-030		Nanoha													
-""In the Middle of BattleÅh Fate	All	NRW58-009		Nanoha													
+""In the Middle of BattleÔøΩh Fate	All	NRW58-009		Nanoha													
 A New Story Fate	All	NRW58-005		Nanoha													
 ""Hornet Javelin"" Fate	All	NRW58-002		Nanoha													
 ""Blaze Form II"" Fate	All	NRW58-001		Nanoha													
-Each OtherÅfs Will Fate	All	NRW58-008		Nanoha													
+Each OtherÔøΩfs Will Fate	All	NRW58-008		Nanoha													
 Determined Eyes Fate	All	NRW58-003		Nanoha
 "																	
 																	
@@ -281,4 +281,4 @@ Hiryuu-gata Seibutsu Selvam		GZLSS4-T01	Selvam
 TotsuzenHenni Selvam		GZLSS4-T02	Selvam														
 YaseiDoubutsu Selvam		GZLSS4-T03	Selvam														
 Hakai no Ou Gojira		GZLSS4-T04	Gojira														
-		GZLSS4-T05	Climax														
+Hibiku Houkou		GZLSS4-T05	Climax														
